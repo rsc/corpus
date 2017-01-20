@@ -1,0 +1,5 @@
+commit 67fbc8f14dac6b6b77f6483dd92f0ad29a48717b
+Author: Brad Rydzewski <brad.rydzewski@gmail.com>
+Date:   Thu Jan 19 11:22:34 2017 +0700
+
+    add custom bool true type

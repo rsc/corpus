@@ -1,0 +1,5 @@
+commit 1a62dafd7863c0e0b256edec7db73716a8e17dde
+Author: Brad Rydzewski <brad.rydzewski@gmail.com>
+Date:   Sat Nov 26 12:16:33 2016 +0100
+
+    use constants in dialer
