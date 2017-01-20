@@ -1,0 +1,5 @@
+commit c91e78db502ff629614837aacb7aa4efa61c651a
+Author: Yawning Angel <yawning@schwanenlied.me>
+Date:   Sat Apr 30 09:49:23 2016 +0000
+
+    Move the hChaChaRef routine to where it makes more sense.
