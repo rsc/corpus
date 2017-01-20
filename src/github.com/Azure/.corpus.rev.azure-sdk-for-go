@@ -1,0 +1,9 @@
+commit d05c22dc3f9fdd2ec6e3593839fdd44df17f2de5
+Author: Martin Strobel <marstr@users.noreply.github.com>
+Date:   Wed Jan 4 11:13:27 2017 -0800
+
+    Adding Go Report Card (#497)
+    
+    * Adding Go Report Card badge to README.
+    
+    * Fixing nits that were found by Go Report Card

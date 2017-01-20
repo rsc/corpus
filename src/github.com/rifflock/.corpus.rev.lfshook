@@ -1,0 +1,8 @@
+commit 24f7833daaff6c3893606bb79d6722a7e9e089c5
+Merge: 3f9d976 b1def10
+Author: rifflock <Michael.Riffle@gmail.com>
+Date:   Fri Dec 16 07:02:10 2016 -0800
+
+    Merge pull request #11 from mariussturm/master
+    
+    Add log rotation through io.Writer interface

@@ -1,0 +1,8 @@
+commit f441e24175ffc865a6354b65375e537201c51382
+Merge: bdd24ac b221adc
+Author: Quentin Perez <qperez@staff.42.fr>
+Date:   Mon Jan 9 09:21:02 2017 +0100
+
+    Merge pull request #128 from davyzhang/develop
+    
+    add ability to parse float and bool to string with queryStruct()

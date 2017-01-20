@@ -1,0 +1,8 @@
+commit fdf19785fd3558d619ef81212f5edf1d6c2a5911
+Merge: e7dbc2e 9efa747
+Author: Alex Saskevich <asaskevich@users.noreply.github.com>
+Date:   Thu Jan 5 00:11:26 2017 +0300
+
+    Merge pull request #176 from yezooz/master
+    
+    Support for RFC 3339 validation
