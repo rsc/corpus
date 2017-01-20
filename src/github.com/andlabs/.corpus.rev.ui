@@ -1,0 +1,8 @@
+commit 2dde2a79e7020f065d94d9bc17e0191bf18a5bff
+Merge: 02104c7 9a4d0b8
+Author: Pietro Gagliardi <andlabs@lostsig.net>
+Date:   Sun Jun 19 13:06:29 2016 -0400
+
+    Merge pull request #154 from ProtonMail/syso
+    
+    Rename static_windows_*.o files to .syso
