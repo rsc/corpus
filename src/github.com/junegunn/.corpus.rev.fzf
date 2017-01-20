@@ -1,0 +1,7 @@
+commit 8ac37d59278209a7aec536f319c26109ef6704eb
+Author: Junegunn Choi <junegunn.c@gmail.com>
+Date:   Tue Jan 17 18:09:29 2017 +0900
+
+    [shell] Do not override --reverse in CTRL-R
+    
+    Close #807

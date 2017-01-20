@@ -1,0 +1,8 @@
+commit 35d512af75e283aae4ca1fc3d44b159ed66189a4
+Merge: c7ca6f9 371162d
+Author: mattn <mattn.jp@gmail.com>
+Date:   Sun Dec 14 00:07:51 2014 +0900
+
+    Merge pull request #1 from omeid/master
+    
+    Allow setting default ParseEnv, ParseBacktick

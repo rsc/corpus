@@ -1,0 +1,8 @@
+commit 66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8
+Merge: 56b76bd 089e34f
+Author: mattn <mattn.jp@gmail.com>
+Date:   Sat Aug 6 21:27:52 2016 +0900
+
+    Merge pull request #10 from stuartnelson3/patch-1
+    
+    Add dragonfly to bsd build
