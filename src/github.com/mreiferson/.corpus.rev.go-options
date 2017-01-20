@@ -1,0 +1,8 @@
+commit 77551d20752b54535462404ad9d877ebdb26e53d
+Merge: 2e28e74 8dd63b2
+Author: Matt Reiferson <snakes@gmail.com>
+Date:   Thu Dec 29 11:00:02 2016 -0800
+
+    Merge pull request #16 from ploxiln/spurious_debug_log
+    
+    remove odd debug log of []float64

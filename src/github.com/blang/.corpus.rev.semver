@@ -1,0 +1,5 @@
+commit 3a37c301dda64cbe17f16f661b4c976803c0e2d2
+Author: ferhat elmas <elmas.ferhat@gmail.com>
+Date:   Wed Nov 30 01:12:39 2016 +0100
+
+    Add one json unmarshal test for full coverage

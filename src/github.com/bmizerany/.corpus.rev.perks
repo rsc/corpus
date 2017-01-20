@@ -1,0 +1,5 @@
+commit d9a9656a3a4b1c2864fdb44db2ef8619772d92aa
+Author: Blake Mizerany <blake.mizerany@gmail.com>
+Date:   Wed Jul 16 14:06:14 2014 -0700
+
+    quantile: remove allocations

@@ -1,0 +1,8 @@
+commit ecfb30f813c1b337eeb55ac1aa81521476729221
+Merge: e89b259 2ac0796
+Author: Jehiah Czebotar <jehiah@gmail.com>
+Date:   Tue Jan 3 17:17:42 2017 -0500
+
+    Merge pull request #741 from mreiferson/id-gen
+    
+    nsqd: per-topic message IDs

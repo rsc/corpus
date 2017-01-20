@@ -1,0 +1,8 @@
+commit a53d495e81424aaf7a7665a9d32a97715c40e953
+Merge: 6865cb8 15f6305
+Author: Matt Reiferson <snakes@gmail.com>
+Date:   Thu Dec 29 10:58:21 2016 -0800
+
+    Merge pull request #203 from jehiah/snappy_switch_203
+    
+    switch to golang/snappy
