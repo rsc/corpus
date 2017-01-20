@@ -1,0 +1,7 @@
+commit e5a75b2b30f21183656d6f2c7a4ee32d58d338e5
+Author: Scott Larkin <scott@codeclimate.com>
+Date:   Thu Jan 19 16:19:32 2017 -0500
+
+    Code Climate config (#2351)
+    
+    Created a Code Climate config with gofmt, golint, and govet enabled
