@@ -1,0 +1,8 @@
+commit 9fdfd46f9806a9228aae341d65ab75c5235c383c
+Merge: 0f3f5fd 6dfb532
+Author: Geert-Johan Riemer <geertjohan.riemer@gmail.com>
+Date:   Thu Aug 11 11:34:08 2016 +0200
+
+    Merge pull request #81 from ReneKroon/master
+    
+    Fix huge memory usage during compilation of embed-go files, fix referencing via variable using non standard config

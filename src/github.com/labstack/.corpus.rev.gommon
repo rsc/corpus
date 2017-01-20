@@ -1,0 +1,7 @@
+commit f72d3c883f8ea180da8f085dd320804c41332ad1
+Author: Vishal Rana <vr@labstack.com>
+Date:   Wed Jan 11 20:03:50 2017 -0800
+
+    Default time format is RFC3339Nano
+    
+    Signed-off-by: Vishal Rana <vr@labstack.com>

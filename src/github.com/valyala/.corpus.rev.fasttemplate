@@ -1,0 +1,5 @@
+commit d090d65668a286d9a180d43a19dfdc5dcad8fe88
+Author: Aliaksandr Valialkin <valyala@gmail.com>
+Date:   Thu Jan 12 13:45:30 2017 +0200
+
+    Avoid memory allocation in ExecuteFuncString if the template has no tags

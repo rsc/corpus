@@ -1,0 +1,6 @@
+commit d228849504861217f796da67fae4f6e347643f15
+Merge: 353693e 6e26b35
+Author: Yasuhiro Matsumoto <mattn.jp@gmail.com>
+Date:   Fri Nov 4 01:00:40 2016 +0900
+
+    Merge branch 'master' of git://github.com/mattn/go-colorable

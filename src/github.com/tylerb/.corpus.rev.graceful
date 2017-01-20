@@ -1,0 +1,8 @@
+commit 0e9129e9c6d47da90dc0c188b26bd7bb1dab53cd
+Merge: d37e108 b2f75ac
+Author: Francis Chuang <F21@users.noreply.github.com>
+Date:   Mon Jan 16 20:04:26 2017 +1100
+
+    Merge pull request #100 from dcelasun/support-get-certificate
+    
+    Allow empty certFile and keyFile for ListenTLS() (Fix #99)
