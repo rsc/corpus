@@ -1,0 +1,15 @@
+commit da06d194a00e19ce00d9011a13931c3f6f6887c7
+Author: Michael Darakananda <pongad@google.com>
+Date:   Mon Nov 7 11:24:06 2016 +1100
+
+    Make README more helpful (#39)
+    
+    * Make README more helpful
+    
+    Make clear that end users will rarely use this library directly.
+    
+    Add license information and required Go version to README.
+    
+    Fixes #38.
+    
+    * Also add godoc

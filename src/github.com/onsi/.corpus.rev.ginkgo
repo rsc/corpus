@@ -1,0 +1,15 @@
+commit a23f924ce96d61f963fb6219b8ff069d8d768cc2
+Author: Clayton Coleman <ccoleman@redhat.com>
+Date:   Sun Jan 1 22:15:22 2017 -0500
+
+    Include captured output from failed tests into JUnit (#318)
+    
+    JUnit has the ability to report the full output of a test run via the
+    system-out field which is not currently exposed. This commit turns the
+    test Writer in a capturing writer even when streaming so that the JUnit
+    reporter will have access to CapturedOutput from the Spec. Failed tests
+    include that output.
+    
+    For suites that generate a lot of log output, being able to zoom in to a
+    particular failed test and see the output all at once makes various
+    JUnit visualization outputs more effective (like in Jenkins).

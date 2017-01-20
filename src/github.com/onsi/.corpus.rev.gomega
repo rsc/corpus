@@ -1,0 +1,8 @@
+commit e85f63af4302dc0e4277c6008ecf803f1d80e4f0
+Merge: f1f0f38 f50d3b2
+Author: Onsi Fakhouri <ofakhouri@pivotal.io>
+Date:   Fri Jan 13 16:03:05 2017 -0800
+
+    Merge pull request #190 from ericTsiliacos/what-if-we-diff-some-strings
+    
+    Attempt to diff long strings when not equal

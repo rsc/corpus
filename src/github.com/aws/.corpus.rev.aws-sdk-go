@@ -1,0 +1,8 @@
+commit 96feaee0a1328835f6336932f48ba7c90df90244
+Merge: 2669c23 f82d132
+Author: awstools <aws-dr-tools-github-user@amazon.com>
+Date:   Thu Jan 19 15:44:32 2017 -0800
+
+    Merge pull request #1045 from aws/release
+    
+    Release v1.6.14
