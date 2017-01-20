@@ -1,0 +1,8 @@
+commit 7ac1091ca77699f898d17a0680e5ed22c9bcfa17
+Merge: 20b3d37 c887b89
+Author: Matthew Fisher <mfisher@deis.com>
+Date:   Mon Oct 3 09:37:55 2016 -0700
+
+    Merge pull request #488 from dmegyesi/alpineUpgrade
+    
+    Upgrade Dockerfile to use latest stable Alpine which has Go 1.6
