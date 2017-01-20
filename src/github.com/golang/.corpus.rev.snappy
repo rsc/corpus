@@ -1,0 +1,8 @@
+commit 7db9049039a047d955fe8c19b83c8ff5abd765c7
+Merge: d9eb7a3 5a0054d
+Author: Nigel Tao <nigeltao@golang.org>
+Date:   Thu Jan 19 12:47:23 2017 +1100
+
+    Merge pull request #36 from sguiheux/gofmt
+    
+    Run gofmt.

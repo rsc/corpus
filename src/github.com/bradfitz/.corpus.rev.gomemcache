@@ -1,0 +1,19 @@
+commit 2fafb84a66c4911e11a8f50955b01e74fe3ab9c5
+Merge: fb1f79c 797efe6
+Author: Brad Fitzpatrick <brad@danga.com>
+Date:   Sun Nov 27 15:23:02 2016 -0800
+
+    Merge pull request #58 from qoelet/allow-unicode-keys
+    
+    Loosen key requirements.
+    
+    https://github.com/memcached/memcached/blob/master/doc/protocol.txt says only:
+    
+    ```
+    Currently the
+    length limit of a key is set at 250 characters (of course, normally
+    clients wouldn't need to use such long keys); the key must not include
+    control characters or whitespace.
+    ```
+    
+    It says nothing about ASCII.

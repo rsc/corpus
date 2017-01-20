@@ -1,0 +1,5 @@
+commit 43ba34106c765f2111c0dc7b74cdf8ee437411e0
+Author: skurganov <sto0nx@gmail.com>
+Date:   Thu Aug 25 18:38:14 2016 +0300
+
+    bugfix: fix invalid dependence

@@ -1,0 +1,12 @@
+commit 5823a0cbaaa9008406021dc5daf80125ea30bba6
+Author: Marty Schoch <marty.schoch@gmail.com>
+Date:   Thu Mar 10 21:08:04 2016 -0500
+
+    add platform package for reusable platform specific code
+    
+    initially just code to hide console on windows
+    
+    Change-Id: I65f9cbe3da23d7144951925f365efb33baa03a66
+    Reviewed-on: http://review.couchbase.org/61305
+    Reviewed-by: Steve Yen <steve.yen@gmail.com>
+    Tested-by: Marty Schoch <marty.schoch@gmail.com>

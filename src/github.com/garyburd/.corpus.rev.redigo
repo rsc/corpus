@@ -1,0 +1,7 @@
+commit 908534c8b97586a4597e3fa195875d2d26502b97
+Author: Gary Burd <gary@beagledreams.com>
+Date:   Thu Jan 12 21:33:26 2017 -0800
+
+    Update doc.go
+    
+    Remove vet warning in pubsub example code.

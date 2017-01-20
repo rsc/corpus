@@ -1,0 +1,8 @@
+commit a19fc4ae2aa1889d4d7a1e2279ed5907825c8215
+Merge: 8d1dc1f 2885a32
+Author: ideawu <wuzuyang@gmail.com>
+Date:   Wed Jul 20 17:31:05 2016 +0800
+
+    Merge pull request #11 from appleboy/patch-1
+    
+    Fix testing warning.

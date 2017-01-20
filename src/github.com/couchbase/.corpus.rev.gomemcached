@@ -1,0 +1,7 @@
+commit 832858c5df7b06c4d1df2b0d98e0a4213416a500
+Author: yu <yu@couchbase.com>
+Date:   Thu Dec 1 18:17:47 2016 -0800
+
+    MB-21879 fix blocking behavior of CloseStream() after feed is closed
+    
+    Change-Id: I23882e1bc62dabd7ae10cce250ca3f2f7fb03e51

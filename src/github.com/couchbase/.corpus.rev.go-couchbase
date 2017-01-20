@@ -1,0 +1,35 @@
+commit bfe555a140d53dc1adf390f1a1d4b0fd4ceadb28
+Author: Steve Yen <steve.yen@gmail.com>
+Date:   Wed Dec 28 21:02:41 2016 -0800
+
+    MB-20493 - cbdatasource empties workerCh before performing kick
+    
+    The sequence of events is the refresh-cluster goroutine (kinda like a
+    manager) is trying to inform 1 or more worker goroutines of which
+    vbuckets they're each responsible for.  (Each worker goroutine
+    connects to a different DCP server.)
+    
+    The refresh-cluster goroutine does this by sending a message to the
+    workerCh of each worker.
+    
+    Unfortunately, a worker might have gotten into a situation (X) where
+    it's trying to contact a DCP server that's been rebalanced out of the
+    cluster, and the DCP server is responding with auth-failure responses.
+    So, that means the worker goroutine never gets around to reading from
+    its workerCh.  In turn, the refresh-cluster goroutine becomes blocked
+    trying to send to the workerCh.
+    
+    A possible "1-liner" fix would have been to just crank up the size of
+    the workerCh's buffer, but then that feels hacky and hard to pick the
+    right larger size.
+    
+    Instead, in an X situation, this fix has the worker just consume and
+    throw away all the messages on its workerCh before kicking the manager
+    for a requested top-down "refresh cluster".  There might be more
+    places where this is needed, so there might be more forthcoming code
+    changes, but for now, attempting a "light touch" on the code impact.
+    
+    Change-Id: Iab58e14d02203839a6f95c9dcf968c573f609b75
+    Reviewed-on: http://review.couchbase.org/71397
+    Reviewed-by: Steve Yen <steve.yen@gmail.com>
+    Tested-by: Steve Yen <steve.yen@gmail.com>

@@ -1,0 +1,9 @@
+commit 23851d93a2292dcc56e71a18ec9e0624d84a0f65
+Author: Suryandaru Triandana <syndtr@gmail.com>
+Date:   Tue Dec 27 18:05:19 2016 +0700
+
+    leveldb: version now locks individual files (fixes #161)
+    
+    This way version doesn't need to locks successive versions.
+    So that intermediate files generated during compaction can
+    be released right away, even if old versions still being used.
