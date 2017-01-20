@@ -1,0 +1,8 @@
+commit 5ad50dc75ab389f8a1c9f8a67d3a1cd85f67ed15
+Merge: adbb107 a9dd940
+Author: Sonia Hamilton <sonia@snowfrog.net>
+Date:   Wed Jan 4 13:24:20 2017 +1100
+
+    Merge pull request #85 from guillemj/pu/skip-snmpd
+    
+    Skip the test suite if the environment variables are missing

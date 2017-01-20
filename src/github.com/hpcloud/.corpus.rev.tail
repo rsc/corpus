@@ -1,0 +1,8 @@
+commit 915e5feba042395f5fda4dbe9c0e99aeab3088b3
+Merge: a30252c bf39eb4
+Author: Nino Kodabande <ninok@hpe.com>
+Date:   Fri Nov 25 10:17:10 2016 -0800
+
+    Merge pull request #101 from TerraTech/master
+    
+    inotify.go: Fix bug where inotify returns IN_ATTRIB against an open fd when deleted

@@ -1,0 +1,8 @@
+commit d8ec1a69a250a17bb0e419c386eac1f3711dc142
+Merge: e5c918b 39fd79a
+Author: Kevin Ballard <kevin@sb.org>
+Date:   Mon Aug 10 00:47:51 2015 -0700
+
+    Merge pull request #4 from tillberg/fix-prefix-repeat
+    
+    Fix prefix-repeat bug in Join when arguments include special characters and no whitespace

@@ -1,0 +1,7 @@
+commit ffe5510c6fa5e15e6d983210ab501c815b56b363
+Author: zensqlmonitor <sqlzen@hotmail.Com>
+Date:   Fri Jan 15 09:05:43 2016 +0100
+
+    Update mssql.go
+    
+    Comment lines 265 & 266 as workaround for using T-SQL flags

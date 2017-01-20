@@ -1,0 +1,8 @@
+commit 79bdc34c5897b6fb2b67ac20b7a00cbd7698c72d
+Merge: d3ba8c5 82a2e2a
+Author: Derek Collison <derek.collison@gmail.com>
+Date:   Fri Jan 13 17:17:32 2017 -0800
+
+    Merge pull request #252 from wallyqs/flusher-loop-timeout-option
+    
+    Add FlusherTimeout to prevent blocking for long on unhealthy connections

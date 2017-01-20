@@ -1,0 +1,8 @@
+commit eb315e36415380e7c2fdee175262560ff42359da
+Merge: 4ccf312 62665b1
+Author: Vincent Demeester <vincent@sbr.pm>
+Date:   Sun Jan 1 22:01:28 2017 +0100
+
+    Merge pull request #26 from cpuguy83/remove_group_lookup
+    
+    Remove support for group lookup

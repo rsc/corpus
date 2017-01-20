@@ -1,0 +1,7 @@
+commit d4f545eb108a2d19f9b1a735689dbfb719bc21fb
+Author: alsm <al@hronrad.eu>
+Date:   Sat Dec 24 12:24:24 2016 +0000
+
+    Don't url to slice of Brokers if it parse fails
+    
+    resolves #68

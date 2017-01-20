@@ -1,0 +1,6 @@
+commit 63795daa9a446c920826655f26ba31c81c860fd6
+Merge: 3d520d0 8eff000
+Author: Michael Klishin <michael@clojurewerkz.org>
+Date:   Sat Dec 24 11:20:40 2016 +0300
+
+    Merge branch 'timeout'

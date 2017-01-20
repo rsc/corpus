@@ -1,0 +1,8 @@
+commit 968957352185472eacb69215fa3dbfcfdbac1096
+Merge: 059469d 0a16e00
+Author: Willem van Bergen <willem@railsdoctors.com>
+Date:   Fri Sep 30 09:24:34 2016 +0200
+
+    Merge pull request #24 from wvanbergen/fix_build
+    
+    [Travis] Fix build

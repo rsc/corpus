@@ -1,0 +1,8 @@
+commit ad49a5c2936f96b8f5943c3fdba47630ccf45a0d
+Merge: ff2a260 6bdcfa9
+Author: Cameron Sparr <sparrc@users.noreply.github.com>
+Date:   Mon Sep 5 10:47:55 2016 +0100
+
+    Merge pull request #2 from influxdata/ints-to-int64
+    
+    use int64s throughout, because why not

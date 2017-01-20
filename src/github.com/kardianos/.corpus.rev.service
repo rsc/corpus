@@ -1,0 +1,8 @@
+commit 6d3a0ee7d3425d9d835debc51a0ca1ffa28f4893
+Merge: 6a55aec bd219ce
+Author: Daniel Theophanes <kardianos@gmail.com>
+Date:   Sat Nov 19 13:06:48 2016 -0800
+
+    Merge pull request #80 from jessecarbon/master
+    
+    Add support for loading environment variables from optional file

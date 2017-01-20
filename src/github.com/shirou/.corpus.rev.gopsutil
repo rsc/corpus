@@ -1,0 +1,5 @@
+commit 1123132e5ad392485dbd16e0f09a0db8c963a2ab
+Author: WAKAYAMA Shirou <shirou.faw@gmail.com>
+Date:   Tue Jan 17 22:38:46 2017 +0900
+
+    [mem]darwin: swap memory was Kbytes, since linux is bytes.

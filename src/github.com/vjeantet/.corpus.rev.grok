@@ -1,0 +1,8 @@
+commit 83bfdfdfd1a8146795b28e547a8e3c8b28a466c2
+Merge: 176de19 e8d8c43
+Author: Valere JEANTET <valere.jeantet@gmail.com>
+Date:   Wed Apr 27 21:49:21 2016 +0200
+
+    Merge pull request #15 from paulstuart/master
+    
+    Cache compiled regexps and add ParseStream function

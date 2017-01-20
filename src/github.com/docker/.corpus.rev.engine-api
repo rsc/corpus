@@ -1,0 +1,8 @@
+commit 4290f40c056686fcaa5c9caf02eac1dde9315adf
+Merge: 611c63f d1862da
+Author: Arnaud Porterie <arnaud.porterie@docker.com>
+Date:   Thu Sep 8 23:21:04 2016 +0000
+
+    Merge pull request #386 from crosbymichael/dep
+    
+    Add deprecation notice
