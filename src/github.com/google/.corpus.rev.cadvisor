@@ -1,0 +1,8 @@
+commit c30a9e7d3642fffb422f08be34a7bbc15d69cdbf
+Merge: 1fa56cb 4ad5c58
+Author: Derek Carr <decarr@redhat.com>
+Date:   Mon Jan 16 13:57:04 2017 -0500
+
+    Merge pull request #1573 from derekwaynecarr/ingore_docker_mount
+    
+    Ignore any .mount cgroup in docker
