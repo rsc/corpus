@@ -1,0 +1,8 @@
+commit 200b8f08cac8f28c46dbf59ae4ca4cf9bcbb9c7d
+Merge: 05f7617 d7fb033
+Author: Steve Streeting <steve@stevestreeting.com>
+Date:   Thu Jan 19 12:08:45 2017 +0000
+
+    Merge pull request #1870 from git-lfs/locking-master-2
+    
+    Define lockable files, make read-only in working copy
