@@ -1,0 +1,8 @@
+commit 668876711219e8b0206e2994bf0a59d889c775aa
+Merge: 5d77bd5 1fba9b4
+Author: Vladimir Mihailenco <vladimir.webdev@gmail.com>
+Date:   Tue Nov 22 16:53:54 2016 +0200
+
+    Merge pull request #26 from airbrake/fix/travis
+    
+    Migrate to travis.

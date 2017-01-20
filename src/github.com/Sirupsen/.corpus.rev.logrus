@@ -1,0 +1,8 @@
+commit 61e43dc76f7ee59a82bdf3d71033dc12bea4c77d
+Merge: 800b0fc f761cee
+Author: Stephen Day <stevvooe@users.noreply.github.com>
+Date:   Thu Jan 12 17:19:11 2017 -0800
+
+    Merge pull request #467 from bengadbois/small_code_cleanup
+    
+    Small var declaration cleanup

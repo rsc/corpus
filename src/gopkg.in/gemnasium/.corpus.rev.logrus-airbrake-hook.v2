@@ -1,0 +1,5 @@
+commit bfee1239d796830ca346767650cce5ba90d58c57
+Author: Philippe Lafoucrière <philippe.lafoucriere@tech-angels.com>
+Date:   Thu Sep 22 14:41:14 2016 -0400
+
+    Fix request deletion from the log entry
