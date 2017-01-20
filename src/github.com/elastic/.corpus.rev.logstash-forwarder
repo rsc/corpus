@@ -1,0 +1,7 @@
+commit 553e6efec0528a27a8e7cda37c545c19c2cea7eb
+Author: Jordan Sissel <jls@semicomplete.com>
+Date:   Wed Oct 12 11:53:52 2016 -0700
+
+    Add disclaimer
+    
+    Fixes #558
