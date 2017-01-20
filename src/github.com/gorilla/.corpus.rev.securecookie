@@ -1,0 +1,7 @@
+commit fa5329f913702981df43dcb2a380bac429c810b5
+Author: Craig Peterson <cpeterson@stackoverflow.com>
+Date:   Sun Oct 2 23:16:01 2016 -0600
+
+    [bugfix] Fix NopDecoder
+    
+    * Fixes #41

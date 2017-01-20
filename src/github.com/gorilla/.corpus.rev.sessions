@@ -1,0 +1,7 @@
+commit 83c8db3bdc9be789e57e3756ffbcffd2d7d40176
+Author: Geofrey Ernest <geofreyernest@live.com>
+Date:   Thu Dec 22 04:33:42 2016 +0300
+
+    Add link to qlstore (#102)
+    
+    This updates the README to add a `sessions.Store` implementation based on https://github.com/cznic/ql database

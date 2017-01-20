@@ -1,0 +1,8 @@
+commit fc113767cd6b051980f260d6dbe84b2740c46ab0
+Merge: 9c0e6ba 0f61af5
+Author: Brian Jones <mojobojo@gmail.com>
+Date:   Thu Jan 28 20:33:10 2016 +0900
+
+    Merge pull request #19 from mayhewj/master
+    
+    Don't repeat dial

@@ -1,0 +1,8 @@
+commit c24ab9baf274473906fbdba5fccb594aec4b9ff1
+Merge: a29c662 65f05c1
+Author: Paul Querna <pquerna@apache.org>
+Date:   Tue Dec 13 08:03:21 2016 -0800
+
+    Merge pull request #195 from cmeon/master
+    
+    inception: Reset undefined fields when reusing objects.

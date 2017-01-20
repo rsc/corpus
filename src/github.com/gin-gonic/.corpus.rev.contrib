@@ -1,0 +1,5 @@
+commit 4d2dccc9a4541014fec054e483cc76609b97fb16
+Author: dvwright <david_v_wright@yahoo.com>
+Date:   Tue Jan 17 23:21:49 2017 -0800
+
+    [ci skip] Added XssWm to gin contrib (#131)
