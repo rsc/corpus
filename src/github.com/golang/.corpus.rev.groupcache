@@ -1,0 +1,8 @@
+commit 72d04f9fcdec7d3821820cc4a6f150eae553639a
+Merge: 6159c0a 361310c
+Author: Brad Fitzpatrick <brad@danga.com>
+Date:   Mon Jan 9 12:54:48 2017 -0800
+
+    Merge pull request #78 from elimisteve/patch-2
+    
+    http.go: Added missing word from NewHTTPPool docs
