@@ -1,0 +1,8 @@
+commit 4e84fabd418daa6c405f42c6a8e0884134b5861a
+Merge: af1589b 0025956
+Author: Wenkai Yin <yinw@vmware.com>
+Date:   Thu Jan 19 18:24:37 2017 +0800
+
+    Merge pull request #1270 from kdada/harbor-master
+    
+    update kubernetes deployment
