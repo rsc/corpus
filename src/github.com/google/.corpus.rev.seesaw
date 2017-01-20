@@ -1,0 +1,10 @@
+commit f11734aa58f0f45d1715844228955a05cdc06f67
+Author: Joel Sing <joel@sing.id.au>
+Date:   Thu Jun 2 15:38:19 2016 +1000
+
+    seesaw/pb: check in the generated protobuf code. (#21)
+    
+    This lowers the barrier to entry by removing the need for the
+    protobuf compiler and Go protobuf generator to be available for
+    basic compilation. The proto changes infrequently and can be
+    the protobuf code can be regenerated and checked in when it does.

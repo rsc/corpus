@@ -1,0 +1,5 @@
+commit d99083b96f422f8fd5a93bc02040acec769e178f
+Author: Kyle Lemons <kevlar@google.com>
+Date:   Wed Nov 9 13:01:02 2016 -0800
+
+    Fix case for examples
