@@ -1,0 +1,6 @@
+commit 18b4089fe32726de3c4205b37a06f84663a36523
+Merge: add2776 6ef96a1
+Author: Srinivasan Muralidharan <muralisr@us.ibm.com>
+Date:   Thu Jan 19 23:26:21 2017 +0000
+
+    Merge "Simplify error handling framework messages"
