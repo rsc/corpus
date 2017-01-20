@@ -1,0 +1,5 @@
+commit ceec8f93295a060cdb565ec25e4ccf17941dbd55
+Author: Aliaksandr Valialkin <valyala@gmail.com>
+Date:   Mon Nov 14 23:01:44 2016 +0200
+
+    make travis happy where /proc/sys/net/core/somaxconn may be missing
