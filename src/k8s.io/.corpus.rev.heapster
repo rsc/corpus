@@ -1,0 +1,8 @@
+commit da3aab913c5e7ef98fa52bb23343b6de7ac48a06
+Merge: 3a66e45 39e0e68
+Author: Piotr Szczesniak <pszczesniak@google.com>
+Date:   Wed Jan 18 14:45:20 2017 +0100
+
+    Merge pull request #1468 from shyamjvs/remove-inclusterconfig-fallback
+    
+    Made authFile override logic not fallback to in-cluster config for standalone mode
