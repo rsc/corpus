@@ -1,0 +1,8 @@
+commit 98bd5b72e16713d4a75e27f8bf74f5ce0c20e947
+Merge: ac4b25f 4571c07
+Author: Alex Sergeyev <abc@alexsergeyev.com>
+Date:   Tue Nov 1 15:19:27 2016 -0400
+
+    Merge pull request #234 from asergeyev/master
+    
+    Changed default for reverselookup option to false
