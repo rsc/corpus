@@ -1,0 +1,5 @@
+commit 4af979ac9b885f59ad10069c27c3cc3641688ff1
+Author: Dan Sosedoff <dan.sosedoff@gmail.com>
+Date:   Tue Jan 10 13:44:42 2017 -0600
+
+    Fix issue with long database names in header
