@@ -1,0 +1,5 @@
+commit e085edda407c05214cc6e71e4881de47667e77ec
+Author: Francisco Souza <f@souza.cc>
+Date:   Tue Jan 10 16:38:49 2017 -0500
+
+    travis: use go 1.8rc1

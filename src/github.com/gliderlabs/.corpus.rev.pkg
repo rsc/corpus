@@ -1,0 +1,7 @@
+commit 36f28d47ec7aae4d25d3d2741ac5af91f7f18680
+Author: Jeff Lindsay <progrium@gmail.com>
+Date:   Mon Dec 5 20:38:12 2016 -0600
+
+    auth0: fixing client_id param in logout redirect
+    
+    Signed-off-by: Jeff Lindsay <progrium@gmail.com>

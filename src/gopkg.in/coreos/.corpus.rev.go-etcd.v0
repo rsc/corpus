@@ -1,0 +1,8 @@
+commit 6aa2da5a7a905609c93036b9307185a04a5a84a5
+Merge: 6fe04d5 364b8ec
+Author: Yicheng Qin <qycqycqycqycqyc@gmail.com>
+Date:   Tue Dec 30 19:30:01 2014 -0800
+
+    Merge pull request #175 from yichengq/1
+    
+    able to operate on key with special character
