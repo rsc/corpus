@@ -1,0 +1,8 @@
+commit 5a11f585a31379765c190c033b6ad39956584447
+Merge: 2bb2e9b 3a5520a
+Author: Paul Bellamy <paul.a.bellamy@gmail.com>
+Date:   Thu Nov 19 09:14:14 2015 +0000
+
+    Merge pull request #4 from ezeql/master
+    
+    make ratecounter expvar friendly

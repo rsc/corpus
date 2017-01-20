@@ -1,0 +1,8 @@
+commit 38a7bb71b483e855d35010808143beaf05b67f9d
+Author: Muir Manders <muir@retailnext.net>
+Date:   Thu Mar 19 07:45:02 2015 -0700
+
+    Fix murmur to work on big endian.
+    
+    Slows down the little endian case a tiny bit, but not working on big endian
+    is a silly limitation.

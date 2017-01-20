@@ -1,0 +1,8 @@
+commit 4dada27c33277820fe35c7ee71ed34fbc9477d00
+Merge: ac74639 027d020
+Author: Jason Wilder <jwilder@users.noreply.github.com>
+Date:   Tue Sep 27 13:43:18 2016 -0600
+
+    Merge pull request #6 from rw/patch-1
+    
+    Fix (*simple8b.Encoder).Reset by zeroing out additional fields.

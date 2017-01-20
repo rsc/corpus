@@ -1,0 +1,8 @@
+commit a601269ab70c205d26370c16f7c81e9017c14e04
+Merge: 9ed569b b08784b
+Author: Dave Grijalva <grijalva@gmail.com>
+Date:   Wed Jan 4 10:22:50 2017 -0800
+
+    Merge pull request #190 from jamesrwhite/patch-1
+    
+    Clarify hmacSampleSecret type

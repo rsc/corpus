@@ -1,0 +1,7 @@
+commit a2b9c3533409cccb4bb188346bcfc789629a424d
+Author: Ahmet Alp Balkan <ahmetalpbalkan@gmail.com>
+Date:   Fri Jan 6 18:50:54 2017 -0800
+
+    Fix golint warnings about godoc comments (#19)
+    
+    Signed-off-by: Ahmet Alp Balkan <ahmetalpbalkan@gmail.com>

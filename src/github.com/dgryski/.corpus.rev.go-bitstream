@@ -1,0 +1,8 @@
+commit 7d46cd22db7004f0cceb6f7975824b560cf0e486
+Merge: 27cd597 f4f762a
+Author: Damian Gryski <dgryski@gmail.com>
+Date:   Fri Jul 1 06:29:32 2016 +0200
+
+    Merge pull request #5 from rw/master
+    
+    Propagate io.Writer errors (with tests).

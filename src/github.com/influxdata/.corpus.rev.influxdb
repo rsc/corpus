@@ -1,0 +1,8 @@
+commit 8e0bf700f82cf7a218d3772bf6b6a8a8364b89d5
+Merge: 0977272 cd05dec
+Author: Mark Rushakoff <mark.rushakoff@gmail.com>
+Date:   Wed Jan 18 19:28:24 2017 -0800
+
+    Merge pull request #7857 from twiden/remove-deprecated-readme-instruction
+    
+    Deprecated use of CREATE DATABASE in a read only context, use a POST …

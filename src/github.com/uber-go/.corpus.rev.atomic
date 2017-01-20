@@ -1,0 +1,7 @@
+commit 3b8db5e93c4c02efbc313e17b2e796b0914a01fb
+Author: Anton Tyurin <noxiouz@yandex.ru>
+Date:   Thu Dec 15 20:56:52 2016 +0100
+
+    Implement Add/Sub for Float64 (#17)
+    
+    Signed-off-by: Anton Tiurin <noxiouz@yandex.ru>

@@ -1,0 +1,5 @@
+commit 30cc5403deead355aac18eb8dfa4788b0707b6a3
+Author: Florian Forster <octo@collectd.org>
+Date:   Wed Nov 23 16:30:48 2016 +0100
+
+    Package rpc: Fix function names in docstrings.

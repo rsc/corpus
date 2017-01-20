@@ -1,0 +1,23 @@
+commit 4a94f899c20bc44d4f5f807cb14529e72aca99d6
+Author: Caleb Spare <cespare@gmail.com>
+Date:   Thu Nov 17 19:48:13 2016 -0800
+
+    Avoid function call overhead
+    
+    This is not a good solution, but it'll do for the moment.
+    
+    noasm:
+    
+     benchmark                            old MB/s     new MB/s     speedup
+    BenchmarkHashes/xxhash,n=5_B-4       383.10       596.40       1.56x
+    BenchmarkHashes/xxhash,n=100_B-4     3558.30      4301.40      1.21x
+    BenchmarkHashes/xxhash,n=4_KB-4      8778.69      8840.83      1.01x
+    BenchmarkHashes/xxhash,n=10_MB-4     7731.16      7736.64      1.00x
+    
+    asm:
+    
+    benchmark                            old MB/s     new MB/s     speedup
+    BenchmarkHashes/xxhash,n=5_B-4       539.76       711.11       1.32x
+    BenchmarkHashes/xxhash,n=100_B-4     4227.89      4598.95      1.09x
+    BenchmarkHashes/xxhash,n=4_KB-4      10590.16     10549.72     1.00x
+    BenchmarkHashes/xxhash,n=10_MB-4     9058.39      9024.04      1.00x

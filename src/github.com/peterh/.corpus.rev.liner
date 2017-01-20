@@ -1,0 +1,10 @@
+commit 3c5f577f62ec95a012ea48a58dd4de3c48222a35
+Author: Peter Harris <peter@harr.ca>
+Date:   Thu Nov 3 14:00:30 2016 -0400
+
+    Speed up rune append on large input
+    
+    No need to call countGlyphs() for an exact answer when the length of the
+    line is already huge.
+    
+    Fixes issue #81
