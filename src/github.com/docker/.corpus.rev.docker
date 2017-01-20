@@ -1,0 +1,8 @@
+commit af90d50647094f8d7813584a90c7a534c2bb610e
+Merge: a992ff9 8dadeaf
+Author: Sebastiaan van Stijn <thaJeztah@users.noreply.github.com>
+Date:   Thu Jan 19 21:49:06 2017 +0100
+
+    Merge pull request #29988 from yongtang/29936-insecure-registries
+    
+    Return error when insecure registry contains scheme
