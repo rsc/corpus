@@ -1,0 +1,8 @@
+commit e30f1e79f3cd72542f2026ceec18d3bd67ab859c
+Merge: 8a7beac 57ccf25
+Author: Alexander Morozov <lk4d4math@gmail.com>
+Date:   Wed Nov 30 14:15:31 2016 -0800
+
+    Merge pull request #22 from fabianofranz/better_human_duration_precision
+    
+    Better human duration precision

@@ -1,0 +1,10 @@
+commit e7cb7fa329f456b3855136a2642b197bad7366ba
+Author: Justin Cormack <justin.cormack@docker.com>
+Date:   Wed Sep 28 08:47:57 2016 +0100
+
+    Add support for ambient capabilities (#11)
+    
+    Ambient capabilities were added in Linux 4.3 and provide a way
+    to pass on capabilities to unprivileged processes easily.
+    
+    Signed-off-by: Justin Cormack <justin.cormack@docker.com>

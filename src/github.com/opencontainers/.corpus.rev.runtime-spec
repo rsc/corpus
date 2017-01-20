@@ -1,0 +1,8 @@
+commit c368be6a74d7383f9b6c9a4b7a3e73d65537b08a
+Merge: dc0fa75 200e86f
+Author: Mrunal Patel <mrunal@me.com>
+Date:   Wed Jan 18 14:32:21 2017 -0800
+
+    Merge pull request #650 from wking/readme-header-nesting
+    
+    README: Consistent header nesting

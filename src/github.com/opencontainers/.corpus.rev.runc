@@ -1,0 +1,8 @@
+commit a9610f2c0237d2636d05a031ec8659a70e75ffeb
+Merge: 29008b8 4732f46
+Author: Qiang Huang <h.huangqiang@huawei.com>
+Date:   Fri Jan 13 02:04:59 2017 -0600
+
+    Merge pull request #1249 from datawolf/small-refactor
+    
+    small refactor

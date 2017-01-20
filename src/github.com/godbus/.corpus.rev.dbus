@@ -1,0 +1,8 @@
+commit 4b24ebee04561bf8a3bcc09aead82062edc56778
+Merge: 097c117 93589d9
+Author: John Southworth <john.southworth@gmail.com>
+Date:   Fri Dec 2 13:35:00 2016 -0800
+
+    Merge pull request #75 from jsouthworth/fix/dbus_error
+    
+    Change the DBusError interface
