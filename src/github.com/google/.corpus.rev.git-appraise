@@ -1,0 +1,14 @@
+commit 4a3502c80637eab79d6cb699a550abe9b6a1c158
+Merge: 7e4f4b3 ce5d467
+Author: Omar Jarjur <ojarjur@google.com>
+Date:   Tue Sep 20 17:24:38 2016 -0700
+
+    Submitting review efcba5b3434d
+    
+    Better support for rebasing reviews
+    
+    This change improves the support for rebasing reviews in multiple ways:
+    
+    1. Adding a new `refs/archives/devtools` ref that can be used to make sure that commits which have been rebased do not get garbage collected.
+    2. Adding a new `alias` field to the request schema that enables tracking review history across rebases.
+    3. Adding a new `rebase` subcommand that enables us to update the history for a change prior to submitting it.
