@@ -1,0 +1,8 @@
+commit b6e5fc4b08a956657367e1ab9eb38e65a6ab6abe
+Merge: 41d2db7 5bdb703
+Author: Chris Bannister <c.bannister@gmail.com>
+Date:   Sun Jan 15 10:42:28 2017 +0000
+
+    Merge pull request #838 from clawconduce/master
+    
+    Some pre-work for lazy loading #730

@@ -1,0 +1,8 @@
+commit 243d2d8673c1225a6afceeb9b3b4423d485dc8df
+Merge: 7cbe056 c76197d
+Author: Grigory Dryapak <disintegration.git@gmail.com>
+Date:   Mon Jan 2 22:04:32 2017 +0300
+
+    Merge pull request #49 from maestromusica/histogram
+    
+    Added Histogram

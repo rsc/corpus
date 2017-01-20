@@ -1,0 +1,5 @@
+commit c8f54aad8b5597caa77143bf12638fa1e80172a3
+Author: Chris Lu <chris.lu@gmail.com>
+Date:   Wed Jan 18 09:54:43 2017 -0800
+
+    adjust timing of leader election

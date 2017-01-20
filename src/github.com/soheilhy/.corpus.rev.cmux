@@ -1,0 +1,8 @@
+commit bf4a8ede9e87c006fe1d4278c6c7f2b8be1fa84c
+Merge: 526b64d f661dcf
+Author: Soheil Hassas Yeganeh <soheil@cs.toronto.edu>
+Date:   Sun Sep 25 21:07:37 2016 -0400
+
+    Merge pull request #36 from soheilhy/dev/fix-mem-grow
+    
+    Fix memory growth

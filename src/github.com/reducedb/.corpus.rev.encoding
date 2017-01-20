@@ -1,0 +1,8 @@
+commit e31efcfdf1b19f4698709a6f522feaf101b1b1f4
+Merge: 6fe6342 815ace5
+Author: Jian Zhen <zhenjl@users.noreply.github.com>
+Date:   Fri Sep 5 09:10:05 2014 -0700
+
+    Merge pull request #2 from lemire/master
+    
+    Nothing much. Just some minor cleaning and one small format change...
