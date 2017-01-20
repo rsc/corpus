@@ -1,0 +1,13 @@
+commit 9fc39e0dbf62c034ec4e45e6120fc69433a3ec51
+Author: Rob Figueiredo <robfig@gmail.com>
+Date:   Wed Mar 6 10:13:11 2013 -0500
+
+    Improve compatibility with memcached interface
+    
+    - Increment/Decrement return the new value of the counter
+    - Increment/Decrement with uint64 instead of int64
+    - Increment/Decrement drop support for floats
+    - Decrement stops at 0 on underflow.
+    - Delete now returns whether or not the key was found/deleted
+    - Define ErrKeyExists & ErrCacheMiss so that callers can test for those
+    errors in particular.

@@ -1,0 +1,8 @@
+commit 41257a1839e945fce74afd070e02bab2ea2c776a
+Merge: f791ba0 d258116
+Author: Rob Figueiredo <robfig@gmail.com>
+Date:   Mon Jan 20 20:10:23 2014 -0800
+
+    Merge pull request #4 from pushrax/master
+    
+    Allow single element wildcards in the last path segment to end with an extension
