@@ -1,0 +1,8 @@
+commit b375fb3974413e6b81b31ff27cf4a62ad225a9fe
+Merge: 2543fed 39e25c4
+Author: OpenShift Bot <dmcphers+openshiftbot@redhat.com>
+Date:   Thu Jan 19 21:16:48 2017 -0500
+
+    Merge pull request #12551 from menghao11/menghao12
+    
+    Merged by openshift-bot
