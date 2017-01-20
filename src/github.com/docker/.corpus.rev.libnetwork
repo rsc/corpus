@@ -1,0 +1,8 @@
+commit 7b2b1feb1de4817d522cc372af149ff48d25028e
+Merge: a193122 252567a
+Author: Santhosh Manohar <santhosh@docker.com>
+Date:   Thu Jan 19 16:03:49 2017 -0800
+
+    Merge pull request #1617 from AkihiroSuda/cleanup
+    
+    proxy: clean up code (addendum to #1598)
