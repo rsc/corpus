@@ -1,0 +1,5 @@
+commit a0175ee3bccc567396460bf5acd36800cb10c49c
+Author: Alec Thomas <alec@swapoff.org>
+Date:   Tue Apr 5 17:15:01 2016 +1000
+
+    Add Go LICENSE. Fixes #4.

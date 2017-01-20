@@ -1,0 +1,5 @@
+commit 2efee857e7cfd4f3d0138cc3cbb1b4966962b93a
+Author: Alec Thomas <alec@swapoff.org>
+Date:   Thu Oct 22 17:55:26 2015 +1100
+
+    Fixes #2 due to an upstream testify change.

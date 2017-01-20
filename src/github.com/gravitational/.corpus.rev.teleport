@@ -1,0 +1,8 @@
+commit 9ac1a865c5013a0e24e74b8b8af3883b718376b0
+Merge: 88d6c3f ce00100
+Author: Ev Kontsevoy <biz@kontsevoy.com>
+Date:   Thu Jan 19 15:10:36 2017 -0800
+
+    Merge pull request #714 from gravitational/sasha/cert
+    
+    check permissions of proper user
