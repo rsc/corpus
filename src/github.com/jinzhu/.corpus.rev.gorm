@@ -1,0 +1,5 @@
+commit 7fb9b62c17d90320e0582a4720db025c1652fd6a
+Author: Jinzhu <wosmvp@gmail.com>
+Date:   Mon Jan 16 09:48:06 2017 +0800
+
+    Apply Before('gorm:row_query') for row query callbacks w/o specify order for compatibility

@@ -1,0 +1,13 @@
+commit 9e40d9d5d325edfaa84d3374bfde6e1adce02d58
+Author: Daniel Theophanes <kardianos@gmail.com>
+Date:   Tue Jan 17 09:39:00 2017 -0800
+
+    fix data race when sending attn signal (#216)
+    
+    Fix data race when sending attn signal
+    
+    Separate out the read and write TDS buffer. Because the attn signal
+    is only sent during reads it removes the race condition without using
+    any locks or atomics.
+    
+    Fixes #207
