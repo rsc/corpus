@@ -1,0 +1,8 @@
+commit 6c88eec93643799a83a5aa08745eab600290823d
+Author: Matt Aitchison <Matt@lanciv.com>
+Date:   Fri Dec 30 23:33:48 2016 -0600
+
+    first pass at tests (#218)
+    
+    * added FakeRoundTripper and container rename test
+    * tests: run in circleci, added TestRoutingFrom
