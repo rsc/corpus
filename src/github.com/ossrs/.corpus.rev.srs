@@ -1,0 +1,5 @@
+commit a3ea83f50477c316a534654e8e674ff3fc6d02c3
+Author: winlin <winlin@vip.126.com>
+Date:   Fri Jan 20 12:11:52 2017 +0800
+
+    directly free the transport, not need to close for maybe NULL
