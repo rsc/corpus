@@ -1,0 +1,5 @@
+commit 9601756e2a6b5fa8ca6749ce4f73f6afdd83030d
+Author: Chen Yufei <cyfdecyf@gmail.com>
+Date:   Thu Jun 13 21:56:30 2013 +0800
+
+    Add scan.go from Go 1.1.1

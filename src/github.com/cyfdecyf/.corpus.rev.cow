@@ -1,0 +1,6 @@
+commit 41c0fb157c8b939b724ae0d58dad3a1b7cd2e811
+Merge: 3794685 1f2130f
+Author: Chen Yufei <cyfdecyf@gmail.com>
+Date:   Sun Jun 19 23:58:48 2016 +0800
+
+    Merge branch 'develop', version 0.9.8
