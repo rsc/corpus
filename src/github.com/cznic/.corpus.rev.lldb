@@ -1,0 +1,5 @@
+commit bea8611dd5c407f3c5eab9f9c68e887a27dc6f0e
+Author: Jan Mercl <0xjnml@gmail.com>
+Date:   Wed Nov 2 13:47:59 2016 +0100
+
+    Support configurable WAL headroom. Updates cznic/ql#140.

@@ -1,0 +1,8 @@
+commit d014a1f19dae3664677c11bd25549cfc820cd890
+Merge: 45e7d04 ef6c338
+Author: Hui Chen <huichen@users.noreply.github.com>
+Date:   Tue Oct 11 11:00:38 2016 +0800
+
+    Merge pull request #58 from buchenglei/master
+    
+    文档示例代码的"(" 应该是 "{"

@@ -1,0 +1,5 @@
+commit 2533cb5b45cc6c07421468ce262899ddc9d53fb7
+Author: Jan Mercl <0xjnml@gmail.com>
+Date:   Sat Jul 23 15:35:15 2016 +0200
+
+    Fix MaxEncodedLen. Closes #5.

@@ -1,0 +1,8 @@
+commit e618435e3202890725c12ccff676e9e3b2592c71
+Merge: 1c9c88f 1979622
+Author: cznic <cznic@users.noreply.github.com>
+Date:   Thu Dec 22 19:55:26 2016 +0100
+
+    Merge pull request #15 from 8tt/master
+    
+    Avoid duplicate symbols on darwin/arm. Fixes #14

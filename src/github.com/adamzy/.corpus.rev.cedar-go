@@ -1,0 +1,5 @@
+commit d348c21f72432c2b6d5f05f68759fde94f64b227
+Author: adamzy <rightcoset@gmail.com>
+Date:   Tue Nov 3 23:22:50 2015 +0800
+
+    Fixes #1, valueLimit should be 1<<31-1 on 32-bit platforms.
