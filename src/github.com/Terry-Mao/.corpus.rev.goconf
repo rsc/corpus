@@ -1,0 +1,8 @@
+commit 13cb73d70c44435af3a64558d8b8a2fffddc411e
+Merge: 100b458 5ebc247
+Author: Terry.Mao <iammao@vip.qq.com>
+Date:   Tue Nov 15 16:25:38 2016 +0800
+
+    Merge pull request #6 from DongweiLee/patch-1
+    
+    fix a comment error

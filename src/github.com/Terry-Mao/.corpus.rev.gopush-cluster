@@ -1,0 +1,8 @@
+commit e487109df9bb7730458fe732d2323da2181ca95f
+Merge: 006237b 9a50101
+Author: Terry.Mao <iammao@vip.qq.com>
+Date:   Mon Dec 12 10:53:55 2016 +0800
+
+    Merge pull request #52 from luoxiaojun1992/feature-message-reids-bugfix
+    
+    message redis.source parse bugfix
