@@ -1,0 +1,8 @@
+commit e6179049628164864e6e84e973cfb56335748dea
+Merge: 3406aeb daade89
+Author: Vladimir Mihailenco <vladimir.webdev@gmail.com>
+Date:   Tue Dec 9 13:07:59 2014 +0200
+
+    Merge pull request #55 from geoffgarside/fix-sort-by
+    
+    Fix SORT .. BY pattern syntax error

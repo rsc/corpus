@@ -1,0 +1,5 @@
+commit b061729afc07e77a8aa4fad0a2fd840958f1942a
+Author: Maxim Bublis <satori@dropbox.com>
+Date:   Tue Sep 27 11:08:44 2016 +0100
+
+    Make Go tip a fast-finish allowed feature for CI.

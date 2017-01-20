@@ -1,0 +1,8 @@
+commit 3bd662eac601ad6436e64776af2e112069eb2edc
+Merge: 3c25728 0dc9054
+Author: e-max <max.lavrenov@gmail.com>
+Date:   Tue Jan 10 13:00:22 2017 +0100
+
+    Merge pull request #459 from arduanov/master
+    
+    Add missed ANSI colors

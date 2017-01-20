@@ -1,0 +1,8 @@
+commit 2404f777256163ea3eadb273dada5dcb037993c0
+Merge: bdb5a06 ad5fc6d
+Author: 无闻 <u@gogs.io>
+Date:   Thu Jan 15 18:35:09 2015 +0800
+
+    Merge pull request #1 from phsmit/fix_gb18030
+    
+    The correct iana name for GB18030 is without the dash

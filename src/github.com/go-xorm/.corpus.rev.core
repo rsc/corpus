@@ -1,0 +1,5 @@
+commit 2fbe2c76c6781d9e1c0398fc25386426e611f975
+Author: Lunny Xiao <xiaolunwen@gmail.com>
+Date:   Tue Jan 3 14:45:57 2017 +0800
+
+    query dialect ignore case sensitive

@@ -1,0 +1,5 @@
+commit cad1c6580a07c56f5f6bc52d66002a05985c5854
+Author: Unknwon <u@gogs.io>
+Date:   Sun Feb 21 23:36:47 2016 -0500
+
+    Update code for checking render middleware

@@ -1,0 +1,8 @@
+commit 4e86f4367175e39f69d9358a5f17b4dda270378d
+Merge: f4b6f4a dfce2a6
+Author: John Weldon <johnweldon4@gmail.com>
+Date:   Wed Sep 23 22:17:56 2015 -0700
+
+    Merge pull request #3 from johnweldon/travis
+    
+    Update travis config

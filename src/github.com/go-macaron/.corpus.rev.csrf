@@ -1,0 +1,5 @@
+commit 6a9a7df172cc1fcd81e4585f44b09200b6087cc0
+Author: Unknwon <u@gogs.io>
+Date:   Sat Mar 12 20:51:27 2016 -0500
+
+    Fix set CSRF every request which would never expire

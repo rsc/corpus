@@ -1,0 +1,8 @@
+commit ef57533c3b0fc2d8581deda14937e52f11a203ab
+Author: Unknwon <u@gogs.io>
+Date:   Sun Jun 12 17:28:37 2016 +0800
+
+    #4 Better support for parsing Accept-Language
+    
+    Use golang.org/x/text/language to parse Accept-Language header in a more
+    appropriate and robust way.

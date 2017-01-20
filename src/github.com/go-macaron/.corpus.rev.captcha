@@ -1,0 +1,5 @@
+commit 8aa5919789ab301e865595eb4b1114d6b9847deb
+Author: Unknwon <u@gogs.io>
+Date:   Mon Nov 23 17:51:53 2015 -0500
+
+    fix data race

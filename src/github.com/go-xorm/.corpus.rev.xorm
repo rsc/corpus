@@ -1,0 +1,5 @@
+commit c360c20aa58a6dec86084967e93f673c57278da1
+Author: Lunny Xiao <xiaolunwen@gmail.com>
+Date:   Fri Jan 20 10:12:06 2017 +0800
+
+    dump support bool

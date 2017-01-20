@@ -1,0 +1,5 @@
+commit d36b54562f4cf70c83653e13dc95c220c79ef521
+Author: caixw <xnotepad@gmail.com>
+Date:   Sun Mar 20 14:51:30 2016 +0800
+
+    ci添加对golang1.6的支持

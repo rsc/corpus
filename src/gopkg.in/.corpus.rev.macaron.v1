@@ -1,0 +1,7 @@
+commit ddb19a9f3e8cedd44696b9dd5854dc8a43f3dd6c
+Author: Unknwon <u@gogs.io>
+Date:   Thu Dec 22 05:49:42 2016 -0500
+
+    Fix possible race condition
+    
+    Closes #110

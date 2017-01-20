@@ -1,0 +1,11 @@
+commit bb0351aa7eb6f322f32667d51375f26a2bca6628
+Author: JT Olds <hello@jtolds.com>
+Date:   Tue Dec 27 17:43:38 2016 -0700
+
+    completely redo internals
+    
+    a bunch of benefits:
+     * no limit on stack size
+     * now only adds stack tags once per goroutine
+     * improved gopherjs support
+     * expose GoroutineId values.

@@ -1,0 +1,8 @@
+commit 8168ee085ee43257585e50c6441aadf54ecb2c9f
+Merge: 056dc13 0367f61
+Author: Jordan Liggitt <jordan@liggitt.net>
+Date:   Thu Dec 1 15:47:33 2016 -0500
+
+    Merge pull request #99 from liggitt/dn-comparison
+    
+    Add comparison methods for DN/RDN/AttributeTypeAndValue

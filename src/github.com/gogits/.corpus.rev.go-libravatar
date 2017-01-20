@@ -1,0 +1,5 @@
+commit cd1abbd55d09b793672732a7a1dfdaa12a40dfd0
+Author: Unknwon <u@gogs.io>
+Date:   Sat Nov 19 21:51:54 2016 -0500
+
+    Remove import path check

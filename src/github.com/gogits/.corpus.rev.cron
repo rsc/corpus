@@ -1,0 +1,9 @@
+commit 2fc07a4c4f1e3c4d2301c5ed578d5e2c31c70421
+Merge: 7f3990a 9585fd5
+Author: Unknwon <u@gogs.io>
+Date:   Mon Dec 5 16:54:23 2016 -0500
+
+    Merge https://github.com/robfig/cron
+    
+    # Conflicts:
+    #	cron_test.go

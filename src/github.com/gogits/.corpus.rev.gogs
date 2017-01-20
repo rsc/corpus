@@ -1,0 +1,5 @@
+commit e8c3e9bcf87aa94497561e52e3cd5a15990a3037
+Author: Unknwon <u@gogs.io>
+Date:   Tue Jan 3 11:02:14 2017 +0800
+
+    Improve code for fix of #4006

@@ -1,0 +1,7 @@
+commit 99a42f20e9e88daec5c0d7beb4e7eac134680ab0
+Author: Unknwon <u@gogs.io>
+Date:   Sun Jun 12 18:09:30 2016 +0800
+
+    Expose JSON method to Toolbox interface
+    
+    Fix #7

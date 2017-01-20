@@ -1,0 +1,9 @@
+commit b8a2b5ef7fb4c91c1c8ca23e2a52e29a4bcbb22f
+Author: Jan Kohlhof <kohj@informatik.uni-marburg.de>
+Date:   Mon Nov 21 23:59:37 2016 +0100
+
+    Fix replication error with mysql based session on gc (#17)
+    
+    * change query to avoid out of range errors
+    
+    * updated travis build

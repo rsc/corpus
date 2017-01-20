@@ -1,0 +1,8 @@
+commit d16d4129aab4e6be4497f4db898965f09b93b565
+Merge: 4b9124c 44fef72
+Author: Jay Taylor <outtatime@gmail.com>
+Date:   Wed Jan 18 12:34:02 2017 -0800
+
+    Merge pull request #11 from cliqz-oss/from_html_nodes
+    
+    Add an interface to accept parsed html data.

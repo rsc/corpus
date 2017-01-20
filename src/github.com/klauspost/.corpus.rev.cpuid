@@ -1,0 +1,8 @@
+commit 09cded8978dc9e80714c4d85b0322337b0a1e5e0
+Merge: 2c698c6 9374f1a
+Author: Klaus Post <klauspost@gmail.com>
+Date:   Wed Mar 2 08:53:16 2016 +0100
+
+    Merge pull request #10 from klauspost/disable-gccgo-build
+    
+    Disable assembly build on gccgo.

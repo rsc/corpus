@@ -1,0 +1,7 @@
+commit 39d6f2727e0698b1021ceb6a77c1801aa92e7d5d
+Author: Gerasimos Maropoulos <makis@ideopod.com>
+Date:   Fri Jun 3 11:28:25 2016 +0300
+
+    Fix 	"gopkg.in/ini.v0" (#2)
+    
+    import "gopkg.in/ini.v0" - to - import "gopkg.in/ini.v1"

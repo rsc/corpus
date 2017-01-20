@@ -1,0 +1,5 @@
+commit a872f05c2e34b37b567401384d202aff11ba06d4
+Author: Andrey Nering <andrey.nering@gmail.com>
+Date:   Wed Aug 24 22:23:04 2016 -0300
+
+    Add JSON tags on definition struct

@@ -1,0 +1,7 @@
+commit 766e555c68dc8bda90d197ee8946c37519c19409
+Author: Unknwon <u@gogs.io>
+Date:   Tue Jan 17 21:00:17 2017 +0800
+
+    Detect reflect.Float32 in setWithProperType
+    
+    Fixes #86

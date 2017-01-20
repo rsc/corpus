@@ -1,0 +1,8 @@
+commit 98046bb98061fc6baa5bb86359af0b7c300d384a
+Author: Martin Hebnes Pedersen <martin.h.pedersen@gmail.com>
+Date:   Wed Dec 21 04:01:37 2016 -0500
+
+    Backward compatibility (username vs. login)
+    
+    Reintroduce the username field for user object on JSON marshal to fix backward
+    compatibility. Fixes Drone 0.4 compatibility issues.

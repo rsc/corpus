@@ -1,0 +1,8 @@
+commit 24e2351369ec4949b2ed0dc5c477afdd4c4034e8
+Merge: 83532ca fff5e9b
+Author: Sergi Mansilla <sergi.mansilla@gmail.com>
+Date:   Wed Jan 18 14:12:30 2017 +0100
+
+    Merge pull request #73 from sergi/support-1.6-and-1.7
+    
+    Support Go 1.6 and 1.7

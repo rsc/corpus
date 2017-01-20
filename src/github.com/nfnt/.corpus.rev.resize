@@ -1,0 +1,8 @@
+commit 891127d8d1b52734debe1b3c3d7e747502b6c366
+Author: nfnt <janschlicht@gmail.com>
+Date:   Sun Jul 24 22:39:20 2016 +0200
+
+    Fix alpha pre-multiplication.
+    
+    The alpha pre-multiplication was applied to an aggregate value an not to the color value. This could cause wrong colors for images with an alpha channel.
+    Fixes #47.
