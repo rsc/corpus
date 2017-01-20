@@ -1,0 +1,7 @@
+commit 89f25bbfa5e180fd4721cad9e253311c2777e574
+Author: Tomás Senart <tsenart@gmail.com>
+Date:   Thu Dec 15 21:43:02 2016 +0100
+
+    Correctly compute Metrics.Rate with sub-second duration results
+    
+    Fixes #208

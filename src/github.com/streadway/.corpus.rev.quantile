@@ -1,0 +1,8 @@
+commit b0c588724d25ae13f5afb3d90efec0edc636432b
+Merge: e256e7e 8096145
+Author: Sean Treadway <sean@soundcloud.com>
+Date:   Thu Sep 17 12:39:42 2015 +0200
+
+    Merge pull request #4 from tsenart/dirty-buffer
+    
+    Flush dirty buffer when querying an early stream
