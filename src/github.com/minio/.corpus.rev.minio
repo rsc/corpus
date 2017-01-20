@@ -1,0 +1,9 @@
+commit 80f13878776a1944934cc8a6fb4666c145355400
+Author: Harshavardhana <harsha@minio.io>
+Date:   Thu Jan 19 11:32:13 2017 -0800
+
+    Initialize peers properly for localhost. (#3600)
+    
+    This introduced a regression.
+    
+    Fixes #3594
