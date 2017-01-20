@@ -1,0 +1,6 @@
+commit 349dd0209470eabd9514242c688c403c0926d266
+Merge: 7fb769b 2fe1a00
+Author: Andy Balholm <andy@balholm.com>
+Date:   Sat Dec 24 06:14:13 2016 -0800
+
+    Merge branch 'lint' of https://github.com/ryancox/cascadia

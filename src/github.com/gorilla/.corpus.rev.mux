@@ -1,0 +1,5 @@
+commit 392c28fe23e1c45ddba891b0320b3b5df220beea
+Author: Adam Eijdenberg <adam@continusec.com>
+Date:   Thu Jan 19 00:43:44 2017 +1100
+
+    [bugfix] fail fast if regex is incorrectly specified using capturing groups. (#218)

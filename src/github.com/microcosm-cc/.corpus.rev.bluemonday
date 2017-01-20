@@ -1,0 +1,8 @@
+commit e79763773ab6222ca1d5a7cbd9d62d83c1f77081
+Merge: f77f16f af9fa8b
+Author: David Kitchen <david@buro9.com>
+Date:   Fri Dec 2 14:38:24 2016 +0000
+
+    Merge pull request #38 from microcosm-cc/buro9/37
+    
+    #37 case tag erroneously was 'javascript' not 'script'

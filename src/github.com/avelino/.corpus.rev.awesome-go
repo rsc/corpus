@@ -1,0 +1,5 @@
+commit 99b3906ac645c391df6cf2262c891eabce5ded8b
+Author: Kirill Danshin <k@guava.by>
+Date:   Thu Jan 19 18:45:36 2017 +0300
+
+    fix travis config
