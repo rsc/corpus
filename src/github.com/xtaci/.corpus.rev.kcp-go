@@ -1,0 +1,5 @@
+commit 2fc956229f3dee0149dbd44aeb2232dd995582a1
+Author: xtaci <daniel820313@gmail.com>
+Date:   Fri Jan 20 12:47:32 2017 +0800
+
+    optimize code on LOCK# , and a bug fix in write notify

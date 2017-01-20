@@ -1,0 +1,8 @@
+commit c056598956acbb4a085b3c23914415937b3335e5
+Merge: d0a56f7 ff2f89b
+Author: Klaus Post <klauspost@gmail.com>
+Date:   Thu Jan 5 16:18:16 2017 +0100
+
+    Merge pull request #39 from jesselucas/patch-1
+    
+    Update README.md to fix small typos.
