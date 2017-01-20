@@ -1,0 +1,8 @@
+commit ad45545899c7b13c020ea92b2072220eefad42b8
+Merge: 96388fa f253961
+Author: Mitchell Hashimoto <xmitchx@gmail.com>
+Date:   Sat Mar 14 10:03:34 2015 -0700
+
+    Merge pull request #2 from lukecyca/master
+    
+    Break lines before hitting width limit, and preserve whitespace

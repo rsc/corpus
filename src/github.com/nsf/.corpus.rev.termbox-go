@@ -1,0 +1,6 @@
+commit abe82ce5fb7a42fbd6784a5ceb71aff977e09ed8
+Merge: 0781bb6 cf382c0
+Author: nsf <no.smile.face@gmail.com>
+Date:   Tue Dec 6 00:42:51 2016 +0500
+
+    Merge branch 'scrub_clean_in_gosimple' of https://github.com/y0ssar1an/termbox-go

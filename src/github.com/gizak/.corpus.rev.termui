@@ -1,0 +1,8 @@
+commit 991cd3d3809135dc24daf6188dc6edcaf3d7d2d9
+Merge: 24acd52 75e0f77
+Author: Zack Guo <zack.y.guo@gmail.com>
+Date:   Tue Jan 17 17:23:42 2017 -0500
+
+    Merge pull request #119 from vitan/master
+    
+    Typo: renamed DefualtHandler to DefaultHandler

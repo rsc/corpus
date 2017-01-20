@@ -1,0 +1,7 @@
+commit ad661195ed0e88491e0f14be6613304e3b1141d6
+Author: Marc-Antoine Ruel <maruel@chromium.org>
+Date:   Wed Jul 20 10:16:34 2016 -0400
+
+    Change the floating point value in expectation.
+    
+    2.0 can be expressed as 0x40000000 or 0xc440000000.
