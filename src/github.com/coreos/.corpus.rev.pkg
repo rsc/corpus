@@ -1,0 +1,8 @@
+commit 447b7ec906e523386d9c53be15b55a8ae86ea944
+Merge: 3ac0863 e4ff33e
+Author: Michael Marineau <mike@marineau.org>
+Date:   Wed Oct 26 15:29:26 2016 -0700
+
+    Merge pull request #79 from marineam/master
+    
+    capnslog: fix compatibility with pflag

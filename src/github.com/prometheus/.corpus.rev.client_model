@@ -1,0 +1,8 @@
+commit fa8ad6fec33561be4280a8f0514318c79d7f6cb6
+Merge: bc9454c 086fe7c
+Author: Brian Brazil <brian-brazil@users.noreply.github.com>
+Date:   Thu Feb 12 10:17:44 2015 +0000
+
+    Merge pull request #9 from brian-brazil/histogram
+    
+    Add Histogram metric type

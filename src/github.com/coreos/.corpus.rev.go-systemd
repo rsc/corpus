@@ -1,0 +1,8 @@
+commit 7f737a6bd38784c73b5bf5cd54d9b1d23295e3a0
+Merge: 7c95333 cdf100f
+Author: Luca Bruno <luca.bruno@coreos.com>
+Date:   Fri Jan 13 10:31:45 2017 +0000
+
+    Merge pull request #219 from nicorevin/sd_journal_get_catalog
+    
+    sdjournal: add GetCatalog

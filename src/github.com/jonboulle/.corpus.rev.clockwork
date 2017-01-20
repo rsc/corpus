@@ -1,0 +1,8 @@
+commit bcac9884e7502bb2b474c0339d889cb981a2f27f
+Merge: e3653ac 24312f7
+Author: Jonathan Boulle <jonathanboulle@gmail.com>
+Date:   Wed Sep 7 14:20:59 2016 +0200
+
+    Merge pull request #9 from ezzatron/update-readme-example
+    
+    Updated README example.

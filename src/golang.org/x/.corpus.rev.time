@@ -1,0 +1,9 @@
+commit f51c12702a4d776e4c1fa9b0fabab841babae631
+Author: Song Gao <song@gao.io>
+Date:   Thu Oct 27 21:02:39 2016 -0700
+
+    rate: change doc for ReserveN to reflect its signature
+    
+    Change-Id: I97299d5a90b4273f42cb992bcf05b3c4786a2ac7
+    Reviewed-on: https://go-review.googlesource.com/32239
+    Reviewed-by: Brad Fitzpatrick <bradfitz@golang.org>

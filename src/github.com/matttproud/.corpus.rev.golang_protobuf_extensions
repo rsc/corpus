@@ -1,0 +1,8 @@
+commit c12348ce28de40eed0136aa2b644d0ee0650e56c
+Merge: 3247c84 7d2226a
+Author: Matt T. Proud <matt.proud@gmail.com>
+Date:   Sun Apr 24 13:30:07 2016 +0200
+
+    Merge pull request #11 from matttproud/testing/remove-externals
+    
+    all: remove external asset imports for tests.

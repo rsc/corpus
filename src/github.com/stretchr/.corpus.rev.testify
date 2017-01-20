@@ -1,0 +1,8 @@
+commit 2402e8e7a02fc811447d11f881aa9746cdc57983
+Merge: 598ab58 ddb91ee
+Author: Ernesto Jiménez <erjica@gmail.com>
+Date:   Sat Dec 17 14:04:45 2016 -0600
+
+    Merge pull request #364 from nmiyake/fixFailOutput
+    
+    Ensure that assert.Fail properly align its output

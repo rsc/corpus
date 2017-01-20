@@ -1,0 +1,8 @@
+commit 1cd3fd81c8ee46c1345c0d427885f1e523e7fd32
+Merge: 4fad942 8ad5e29
+Author: Gyu-Ho Lee <gyuhox@gmail.com>
+Date:   Thu Jan 19 17:56:14 2017 -0800
+
+    Merge pull request #7194 from gyuho/backport
+    
+    NEWS: fix date for v3.1 release

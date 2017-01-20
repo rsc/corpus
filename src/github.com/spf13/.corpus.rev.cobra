@@ -1,0 +1,5 @@
+commit dc208f4211e7f6df7ec8cb62640f57d3e154910d
+Author: Apurva Chitnis <apuchitnis@users.noreply.github.com>
+Date:   Wed Jan 18 18:55:16 2017 +0000
+
+    Added useful info for setting up bash autocompletion. (#384)

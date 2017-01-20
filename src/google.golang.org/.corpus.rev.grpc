@@ -1,0 +1,9 @@
+commit 50955793b0183f9de69bd78e2ec251cf20aab121
+Author: MakMukhi <mmukhi@google.com>
+Date:   Wed Jan 11 11:10:52 2017 -0800
+
+    Debugging tests for AuthInfo (#1046)
+    
+    * debug
+    
+    * fix

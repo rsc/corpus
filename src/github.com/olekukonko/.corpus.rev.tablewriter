@@ -1,0 +1,8 @@
+commit a02c902005fcb6f1c4e992cb6dfa748a93bd3b19
+Merge: f7b75b5 5ddc676
+Author: Oleku Konko <oleku.konko@gmail.com>
+Date:   Thu Jan 19 20:21:42 2017 +0100
+
+    Merge pull request #56 from knz/preserve-spaces
+    
+    Preserve leading and trailing spaces in Append.

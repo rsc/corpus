@@ -1,0 +1,7 @@
+commit 7a41df006ff9af79a29f0ffa9c5f21fbe6314a2d
+Author: Dustin Sallings <dustin@spy.net>
+Date:   Mon Jan 9 23:11:07 2017 -0800
+
+    Handle formatting floats on 32-bit systems
+    
+    Closes #46

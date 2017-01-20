@@ -1,0 +1,5 @@
+commit a5b47d31c556af34a302ce5d659e6fea44d90de0
+Author: Gustavo Niemeyer <gustavo@niemeyer.net>
+Date:   Wed Sep 28 12:37:09 2016 -0300
+
+    Fix unmarshaler handling of empty strings.

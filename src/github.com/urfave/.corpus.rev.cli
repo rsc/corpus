@@ -1,0 +1,5 @@
+commit f1be59ff3d239f0942b201619030d302bce912cc
+Author: Antonio Fdez <antoniofernandezvara@gmail.com>
+Date:   Sat Nov 19 22:37:11 2016 +0100
+
+    added comment to windows filePath check

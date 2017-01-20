@@ -1,0 +1,8 @@
+commit 07dd2e8dfe18522e9c447ba95f2fe95262f63bb2
+Merge: 95bd620 8527ae4
+Author: Xiang Li <xiangli.cs@gmail.com>
+Date:   Sat Aug 13 08:48:53 2016 -0700
+
+    Merge pull request #2 from gyuho/loss
+    
+    status: fix reset loss

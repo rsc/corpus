@@ -1,0 +1,8 @@
+commit a232f6d9f87afaaa08bafaff5da685f974b83313
+Merge: 5126803 86d3545
+Author: Eric Paris <eparis@redhat.com>
+Date:   Thu Jan 19 16:32:39 2017 -0500
+
+    Merge pull request #102 from bogem/redundant
+    
+    Clean up code

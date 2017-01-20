@@ -1,0 +1,9 @@
+commit a51e1d5b0d7965e5363ac64ca47c4f078d77b3a0
+Author: Travis Cline <travis.cline@gmail.com>
+Date:   Wed Jan 11 07:20:48 2017 -0800
+
+    Pass permanent HTTP request headers (#252)
+    
+    * Pass Permanent Request Headers
+    
+    * Fix tests and update pr213

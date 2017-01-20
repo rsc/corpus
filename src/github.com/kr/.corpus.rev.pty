@@ -1,0 +1,8 @@
+commit ce7fa45920dc37a92de8377972e52bc55ffa8d57
+Merge: a6bad5e ed84cf8
+Author: Guillaume J. Charmes <guillaume@charmes.net>
+Date:   Sat Jul 16 15:46:20 2016 -0500
+
+    Merge pull request #44 from cmarcelo/pr/dragonfly-gofmt
+    
+    Reformat pty_dragonfly.go file using gofmt

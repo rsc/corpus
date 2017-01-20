@@ -1,0 +1,16 @@
+commit b8a2a83acfe6e6770b75de42d5ff4c67596675c0
+Author: Adam Langley <agl@golang.org>
+Date:   Fri Jan 13 11:21:00 2017 -0800
+
+    otr: add missing return on error path
+    
+    Due to a missing return, corrupt TLV data would cause an infinite loop
+    that consumes memory, eventually crashing the process.
+    
+    Thanks to Ivan Markin for pointing this out.
+    
+    Change-Id: Iaaf7c5f7ce911d3e542b86f6b942b15e2ccbdf3b
+    Reviewed-on: https://go-review.googlesource.com/35247
+    Run-TryBot: Adam Langley <agl@golang.org>
+    TryBot-Result: Gobot Gobot <gobot@golang.org>
+    Reviewed-by: Brad Fitzpatrick <bradfitz@golang.org>

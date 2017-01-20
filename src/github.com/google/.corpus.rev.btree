@@ -1,0 +1,8 @@
+commit 316fb6d3f031ae8f4d457c6c5186b9e3ded70435
+Author: Graeme Connell <gsconnell@gmail.com>
+Date:   Sat Dec 17 11:35:37 2016 -0700
+
+    Pedantically rename Clone's receiver.
+    
+    It annoyed me that Clone's receiver was 'b' but the others were all 't'
+    :)

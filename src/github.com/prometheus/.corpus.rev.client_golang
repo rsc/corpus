@@ -1,0 +1,8 @@
+commit 74f9ce27f652f73cbb519ce5500f8e12d08dcbd3
+Merge: 575f371 60e6192
+Author: Björn Rabenstein <bjoern@rabenste.in>
+Date:   Mon Jan 9 00:28:57 2017 +0100
+
+    Merge pull request #270 from prometheus/beorn7/fixes
+    
+    graphite: Adjust ExtractSamples call to new interface

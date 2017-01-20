@@ -1,0 +1,9 @@
+commit 675b82c74c0ed12283ee81ba8a534c8982c07b85
+Author: Taek42 <taek42@protonmail.com>
+Date:   Thu Oct 13 06:26:35 2016 -0400
+
+    Add 'AskQuiet' to speakeasy
+    
+    AskQuiet will not prompt the user for a password, and will not print a carriage
+    return. The user must know to type the password, because there will not be a
+    prompt.

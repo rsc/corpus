@@ -1,0 +1,8 @@
+commit 04f313413ffd65ce25f2541bfd2b2ceec5c0908c
+Merge: a54de18 e9369f6
+Author: Sam Ghods <sam@box.com>
+Date:   Tue Dec 6 16:33:20 2016 -0800
+
+    Merge pull request #7 from greensnark/fix-map-deserialize
+    
+    Fix panic on unmarshal for maps with struct pointer values

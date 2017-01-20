@@ -1,0 +1,8 @@
+commit 9474efc580562cce8f761659fbce31b6feb8ce88
+Merge: 8ab6407 df1be61
+Author: Jonathan Boulle <jonathanboulle@gmail.com>
+Date:   Mon Dec 5 13:41:38 2016 -0800
+
+    Merge pull request #19 from andyxning/fix_test_with_metadata
+    
+    fix test with metadata

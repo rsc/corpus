@@ -1,0 +1,8 @@
+commit dd2f054febf4a6c00f2343686efb775948a8bff4
+Merge: 6d76b79 68a5d4e
+Author: Björn Rabenstein <bjoern@rabenste.in>
+Date:   Mon Jan 9 00:12:12 2017 +0100
+
+    Merge pull request #73 from prometheus/beorn7/tweaks
+    
+    expfmt: Don't panic on decoding corrupt data

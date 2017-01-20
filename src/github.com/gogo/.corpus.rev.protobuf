@@ -1,0 +1,5 @@
+commit 6e505820968158ec7ac58ea92bba501a82b41171
+Author: Walter Schulze <awalterschulze@gmail.com>
+Date:   Wed Jan 18 12:17:54 2017 +0100
+
+    fix for issue 253 gostring for stdtime and stdduration when nullable=false

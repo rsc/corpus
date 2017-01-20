@@ -1,0 +1,8 @@
+commit 12c7ffdc19984c477ec75e92e77959b27256e608
+Merge: a2d6215 77679ba
+Author: Karl Seguin <karlseguin@users.noreply.github.com>
+Date:   Thu Dec 22 18:15:50 2016 +0700
+
+    Merge pull request #9 from spicydog/patch-1
+    
+    Fix an error in example "itemsToPrune"
