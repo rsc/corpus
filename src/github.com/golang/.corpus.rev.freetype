@@ -1,0 +1,5 @@
+commit d9be45aaf7452cc30c0ceb1b1bf7efe1d17b7c87
+Author: Nigel Tao <nigeltao@golang.org>
+Date:   Thu Dec 8 17:47:10 2016 +1100
+
+    Don't crash when a glyph has no contours.

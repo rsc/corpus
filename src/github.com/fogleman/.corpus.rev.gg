@@ -1,0 +1,5 @@
+commit 6166aa3c1afaee416f384645a81636267aee6d25
+Author: Michael Fogleman <fogleman@gmail.com>
+Date:   Tue Dec 20 19:30:13 2016 -0500
+
+    set fontHeight in SetFontFace

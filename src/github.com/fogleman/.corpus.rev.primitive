@@ -1,0 +1,8 @@
+commit 80f39ceaa8f4c66acb28aba6abe6b15128c06113
+Merge: 37639cc 11a9f18
+Author: Michael Fogleman <fogleman@gmail.com>
+Date:   Fri Dec 2 08:47:48 2016 -0500
+
+    Merge pull request #42 from zwade/master
+    
+    Add support for transparency in source image
