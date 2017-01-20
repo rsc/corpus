@@ -1,0 +1,7 @@
+commit d949c34af1da569da5ba19709ba48c962e257f05
+Author: Wouter Groeneveld <wouter.groeneveld@gmail.com>
+Date:   Wed Jan 18 19:39:07 2017 +0100
+
+    docs: Add Dokuwiki to hugo conversion tool
+    
+    I've written a DokuWiki to hugo conversion tool in python to migrate my blog content to Hugo. I hope others will also benefit from it. Feel free to take a look and give some feedback.

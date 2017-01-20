@@ -1,0 +1,8 @@
+commit a1a71abe12823e27ae7507189fe2e914ba9626ac
+Merge: d407e78 c1f6c24
+Author: Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>
+Date:   Sat Oct 29 16:53:16 2016 +0200
+
+    Merge pull request #1 from bep/gitrepo
+    
+    Add TopLevelAbsPath

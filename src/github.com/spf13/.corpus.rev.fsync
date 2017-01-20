@@ -1,0 +1,5 @@
+commit cb2da332d00cbc04e4f3f677520dc3e7cc11874b
+Author: Cameron Moore <moorereason@gmail.com>
+Date:   Tue Nov 29 22:45:28 2016 -0600
+
+    Add NoChmod option to disable permission sync

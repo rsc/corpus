@@ -1,0 +1,7 @@
+commit a1f048ba24490f9b0674a67e1ce995d685cddf4a
+Author: Thomas Pelletier <pelletier.thomas@gmail.com>
+Date:   Sun Jan 15 18:49:11 2017 -0800
+
+    Make ToString() return an error instead of panic (#117)
+    
+    Fixes #100

@@ -1,0 +1,8 @@
+commit 9be5e8aae85904f63d505e0c00e5e0881d44ef4d
+Merge: 70e65b6 946fb67
+Author: Ekin Koc <ekin@eknkc.com>
+Date:   Sat Dec 31 09:27:58 2016 +0200
+
+    Merge pull request #53 from reujab/master
+    
+    Add support for @ signs in attributes

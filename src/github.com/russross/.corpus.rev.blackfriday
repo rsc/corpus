@@ -1,0 +1,7 @@
+commit 5f33e7b7878355cd2b7e6b8eefc48a5472c69f70
+Author: Kévin Dunglas <dunglas@gmail.com>
+Date:   Mon Oct 3 18:27:22 2016 +0200
+
+    Document using fenced code blocks with bluemonday (#309)
+    
+    Document using fenced code blocks with bluemonday

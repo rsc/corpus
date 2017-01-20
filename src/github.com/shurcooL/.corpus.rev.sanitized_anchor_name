@@ -1,0 +1,5 @@
+commit 1dba4b3954bc059efc3991ec364f9f9a35f597d2
+Author: Dmitri Shuralyov <shurcooL@gmail.com>
+Date:   Sat Sep 17 21:11:01 2016 -0700
+
+    Update Travis to Go 1.7, fix vet issue.

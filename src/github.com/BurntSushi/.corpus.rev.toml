@@ -1,0 +1,8 @@
+commit 99064174e013895bbd9b025c31100bd1d9b590ca
+Merge: bec2dac 0f81d50
+Author: Andrew Gallant <jamslam@gmail.com>
+Date:   Sun Jul 17 11:07:09 2016 -0400
+
+    Merge pull request #144 from kevinburke/all-go-versions
+    
+    Run .travis.yml against latest Go versions

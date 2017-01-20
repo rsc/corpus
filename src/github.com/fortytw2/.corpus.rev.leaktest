@@ -1,0 +1,9 @@
+commit 0db74e8cd5adacfcc982838c6e185789e4b44e14
+Author: Hector Jusforgues <hector.jusforgues@gmail.com>
+Date:   Fri Sep 23 16:02:53 2016 +0700
+
+    Fix false-positive with Go1.7's testing goroutine (#10)
+    
+    * Change Travis config to trigger issue #9
+    
+    * Fix #9 by ignoring the new goroutine from testing package

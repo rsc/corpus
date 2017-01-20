@@ -1,0 +1,14 @@
+commit 11dbc599981ccdf4fb18802a28392a8bcf7a9395
+Author: Richard Dingwall <rdingwall@gmail.com>
+Date:   Thu Jan 12 23:38:57 2017 +0000
+
+    text: add new code pages: IBM 1047 and 1140.
+    
+    These codepages are used for interbank credit card authorization and
+    clearing.
+    
+    Change-Id: I65e9b0ca315cee4e87d002276ffe62d14192c9bf
+    Reviewed-on: https://go-review.googlesource.com/35172
+    Reviewed-by: Marcel van Lohuizen <mpvl@golang.org>
+    Run-TryBot: Marcel van Lohuizen <mpvl@golang.org>
+    TryBot-Result: Gobot Gobot <gobot@golang.org>

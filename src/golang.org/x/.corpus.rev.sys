@@ -1,0 +1,14 @@
+commit d75a52659825e75fff6158388dddc6a5b04f9ba5
+Author: Samuel Tan <samueltan@google.com>
+Date:   Wed Dec 14 10:38:57 2016 -0800
+
+    x/sys/unix: move gccgo redeclared functions to separate files
+    
+    These functions are redeclared in gccgo builds, so move them
+    to separate files with the "!gccgo" build constraint.
+    
+    Fixes golang/go#18312
+    
+    Change-Id: I868cfb77fc394e5e96cee78af0f3abf43db6082a
+    Reviewed-on: https://go-review.googlesource.com/34379
+    Reviewed-by: Ian Lance Taylor <iant@golang.org>

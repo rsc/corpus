@@ -1,0 +1,8 @@
+commit ed105d635dfa9ea7133f7c79f1eb36203fc3a156
+Merge: c7e5aeb 95bfb4b
+Author: Mitchell Hashimoto <xmitchx@gmail.com>
+Date:   Tue Jan 17 16:13:03 2017 -0800
+
+    Merge pull request #64 from skipor/support_func_decode
+    
+    Support func decoding via hooks

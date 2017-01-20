@@ -1,0 +1,8 @@
+commit c2c54e542fb797ad986b31721e1baedf214ca413
+Merge: 29ae4ff 34e568f
+Author: Daniel Theophanes <kardianos@gmail.com>
+Date:   Wed Aug 10 17:15:26 2016 -0700
+
+    Merge pull request #19 from DavidGamba/godoc-readme
+    
+    Add GoDoc to README

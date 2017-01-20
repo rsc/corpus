@@ -1,0 +1,15 @@
+commit fd9ec7deca8bf46ecd2a795baaacf2b3a9be1197
+Author: Nickolai Zeldovich <nickolai@csail.mit.edu>
+Date:   Wed Oct 26 16:31:22 2016 -0400
+
+    Properly handle inotify's IN_Q_OVERFLOW event (#149)
+    
+    * Properly handle inotify's IN_Q_OVERFLOW event
+    
+    Upon receiving an event with IN_Q_OVERFLOW set in the mask, generate an
+    error on the Errors chan, so that the application can take appropriate
+    action.
+    
+    * Use a well-defined error (ErrEventOverflow) for inotify overflow
+    
+    * Add a test for inotify queue overflow

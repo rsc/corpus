@@ -1,0 +1,5 @@
+commit f757c9f9b69c16ff69d38dbf224be28a7b6537bb
+Author: Ethan Mosbaugh <emosbaugh@gmail.com>
+Date:   Thu Dec 1 18:38:45 2016 -0800
+
+    Fixes #54 - make bundle safe for concurrent map reads and writes

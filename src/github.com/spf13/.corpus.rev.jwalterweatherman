@@ -1,0 +1,5 @@
+commit fa7ca7e836cf3a8bb4ebf799f472c12d7e903d66
+Author: Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>
+Date:   Mon Jan 9 14:33:55 2017 +0100
+
+    Add getters for the tresholds

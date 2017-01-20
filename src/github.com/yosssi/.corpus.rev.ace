@@ -1,0 +1,8 @@
+commit ea038f4770b6746c3f8f84f14fa60d9fe1205b56
+Merge: 71afeb7 206747b
+Author: Keiji Yoshida <yoshida.keiji.84@gmail.com>
+Date:   Thu Jul 28 16:45:28 2016 +0900
+
+    Merge pull request #72 from ku/output-formatter
+    
+    Pretty-print formatter

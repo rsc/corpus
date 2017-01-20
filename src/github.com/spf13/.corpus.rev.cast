@@ -1,0 +1,5 @@
+commit 56a7ecbeb18dde53c6db4bd96b541fd9741b8d44
+Author: Cameron Moore <moorereason@gmail.com>
+Date:   Sat Dec 24 11:25:03 2016 -0600
+
+    Add Unix epoch support to ToTimeE

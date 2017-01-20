@@ -1,0 +1,5 @@
+commit 72b31426848c6ef12a7a8e216708cb0d1530f074
+Author: Sotirios Mantziaris <smantziaris@gmail.com>
+Date:   Tue Jan 10 00:53:20 2017 +0200
+
+    Eliminate go vet warnings

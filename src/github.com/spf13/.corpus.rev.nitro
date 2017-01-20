@@ -1,0 +1,5 @@
+commit 24d7ef30a12da0bdc5e2eb370a79c659ddccf0e8
+Author: spf13 <steve.francia@gmail.com>
+Date:   Thu Oct 3 09:43:07 2013 -0400
+
+    Enabling 'bring your own flag' enabling
