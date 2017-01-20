@@ -1,0 +1,5 @@
+commit b6848a3edb833af7b6749da9d3a9dc716e96d517
+Author: Nick Craig-Wood <nick@craig-wood.com>
+Date:   Thu Jan 19 18:01:31 2017 +0000
+
+    Fix race in Lister.Finished which was causing the tests to be unreliable
