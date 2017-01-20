@@ -1,0 +1,5 @@
+commit 4609a45a9e61188d0d69a5d8ad42600c3df35002
+Author: Jan Mercl <0xjnml@gmail.com>
+Date:   Wed Oct 12 12:45:33 2016 +0200
+
+    Fix QuadPolyFactors.

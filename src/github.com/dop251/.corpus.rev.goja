@@ -1,0 +1,8 @@
+commit 64f863c4eb0329df18ecd1dab1e03609556bfaca
+Merge: 64bfa76 2e54e35
+Author: Dmitry Panov <dop251@users.noreply.github.com>
+Date:   Fri Dec 30 16:39:22 2016 +0000
+
+    Merge pull request #12 from dennwc/lazy_eval_vm
+    
+    compiler: create eval vm lazily

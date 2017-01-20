@@ -1,0 +1,6 @@
+commit 4009c9dc49dd8906bfd4d479c255470d6a477ce5
+Merge: da86aa5 805a760
+Author: Douglas Clark <dlclark@gmail.com>
+Date:   Sun Oct 16 14:55:20 2016 -0500
+
+    fix ECMAScript mode -- merge branch 'dop251-ecmascript'

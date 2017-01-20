@@ -1,0 +1,10 @@
+commit 9e2ad0873f358c54296ccdc5116b0652c98226d1
+Author: Evan Jones <evan.jones@bluecore.com>
+Date:   Fri Jan 13 13:23:11 2017 -0500
+
+    internal: listen on localhost for dev_appserver; avoid macOS Firewall (#45)
+    
+    Without this, the macOS firewall asks if _ah_exe should accept
+    incoming network connections, since by default it listens on all
+    interfaces. For development purposes, it is sufficient to only listen
+    on localhost.

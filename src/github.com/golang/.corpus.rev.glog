@@ -1,0 +1,7 @@
+commit 23def4e6c14b4da8ac2ed8007337bc5eb5007998
+Author: Michael Stapelberg <stapelberg@users.noreply.github.com>
+Date:   Mon Jan 25 21:49:56 2016 +0100
+
+    README: change code.google.com link to GitHub
+    
+    Signed-off-by: David Symonds <dsymonds@golang.org>

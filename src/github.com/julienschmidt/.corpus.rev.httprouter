@@ -1,0 +1,7 @@
+commit 8a45e95fc75cb77048068a62daed98cc22fdac7c
+Author: Julien Schmidt <git@julienschmidt.com>
+Date:   Thu Jan 5 02:58:16 2017 +0800
+
+    Fix typo
+    
+    Fixes #171

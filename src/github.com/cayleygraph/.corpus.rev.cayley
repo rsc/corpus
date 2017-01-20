@@ -1,0 +1,5 @@
+commit 20409a3d06ab09562f3c3773f56206cfe3dc10a1
+Author: Denys Smirnov <denis.smirnov.91@gmail.com>
+Date:   Sat Jan 14 15:01:21 2017 +0200
+
+    add missing build tags; find relative path of data files automatically

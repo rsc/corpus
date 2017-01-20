@@ -1,0 +1,8 @@
+commit 1b00554d822231195d1babd97ff4a781231955c9
+Merge: 5007efa b16ed14
+Author: pborman <borman@google.com>
+Date:   Thu Jan 12 07:04:04 2017 -0800
+
+    Merge pull request #25 from pborman/marshal
+    
+    Replace JSONMarshal with MarshalText (and friends).

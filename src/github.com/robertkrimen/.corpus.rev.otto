@@ -1,0 +1,5 @@
+commit 284b08b29563c1dd9b3ff3de41b413402da988b9
+Author: Robert Krimen <robertkrimen@gmail.com>
+Date:   Fri Jan 13 18:35:26 2017 -0800
+
+    Restore .split returning a proper Array (fix #234)

@@ -1,0 +1,8 @@
+commit 3f83fa5005286a7fe593b055f0d7771a7dce4655
+Merge: f2b6f6c 1e52f61
+Author: Gustavo Niemeyer <gustavo@niemeyer.net>
+Date:   Wed Aug 17 23:01:20 2016 -0300
+
+    Merge pull request #311 from zachjs/v2
+    
+    Fix integer constant overflow on 32-bit systems.
