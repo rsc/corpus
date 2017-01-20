@@ -1,0 +1,10 @@
+commit 796a3227145680d8be9aede03e98d9ee9c9c93fc
+Author: Edward Muller <edwardam@interlix.com>
+Date:   Thu Jan 19 11:02:27 2017 -0800
+
+    Don't use build.ImportDir as it ignores tags
+    
+    Instead use our own directory scanning stuff. I hope this doesn't have other
+    fallout, but it probably will.  :-(
+    
+    Fixed #529 though.
