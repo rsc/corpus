@@ -1,0 +1,12 @@
+commit 0203db228191af09ef6f5644c623f25280d22ba3
+Author: Dmitri Shuralyov <shurcooL@gmail.com>
+Date:   Thu Jan 12 20:51:00 2017 -0500
+
+    build: Detect vendored js package and return error. (#572)
+    
+    This follows #538.
+    
+    Vendoring github.com/gopherjs/gopherjs/js package is not supported, and can cause
+    hard to understand runtime errors. Better catch it earlier and print a clear error message.
+    
+    Helps #569.

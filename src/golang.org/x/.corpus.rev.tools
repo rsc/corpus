@@ -1,0 +1,11 @@
+commit add1aac04e65808e1f3ea9969c10e4494fd39d93
+Author: Chris Broadfoot <cbro@golang.org>
+Date:   Wed Jan 18 12:06:52 2017 -0800
+
+    static: don't use the jQuery func for looking up based on hash
+    
+    $.find is safer.
+    
+    Change-Id: I51893b64ce804ac5a70f780a1255af2c91413110
+    Reviewed-on: https://go-review.googlesource.com/35430
+    Reviewed-by: Brad Fitzpatrick <bradfitz@golang.org>
