@@ -1,0 +1,32 @@
+#!/bin/bash
+
+root=$(cd ..; pwd)
+set -e
+mkdir -p src
+for i in $(find src -name '.corpus.url.*'); do (
+	set -e
+	revfile=$(echo $i | sed 's;/\.corpus\.url;/.corpus.rev;')
+	rev=$(cat $revfile | grep '^commit ' | sed 1d | awk '{print $2}')
+	url="$(cat $i)"
+	path=$(echo $i | sed 's;/\.corpus\.url\.;/;')
+	name=$(echo $path | sed 's;src/;;; s;/;_;g')
+	if [ -d "$path/.git" ]; then
+		echo "$path/.git already exists"
+	else
+		if [ ! -d "$root/gitcache_$name" ]; then
+			git clone --bare "$url" "$root/gitcache_$name"
+		fi
+		git clone "$root/gitcache_$name" $path
+		cd $path
+		echo $path $rev
+		git reset --hard $rev
+	fi
+) || exit 1; done
+
+bad=false
+for i in $(find src -name .hg -o -name .bzr -o -name .svn); do
+	bad=true
+	echo $i unsupported >&2
+done
+$bad && exit 2
+exit 0

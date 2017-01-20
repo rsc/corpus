@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# This is really awful.
+
+unset SSH_AUTH_SOCK
+set -e
+target=$1
+
+dir=$(echo $target | sed 's;/[^/]*$;;')
+last=$(echo $target | sed 's;.*/;;')
+if [ -f "src/$dir/.corpus.project.$last" ]; then
+	echo "src/$dir/.corpus.project.$last exists" >&2
+	exit 1
+fi
+
+# Do all the work in a git clone so it's easy to blow away the state.
+# These commands tend to break .git directories when they go south.
+rm -rf ../corpus.tmp
+git clone . ../corpus.tmp
+git checkout HEAD^0
+cd ../corpus.tmp
+set -e
+../corpus/gitrestore
+GOPATH=$(pwd) go get -v -t -d $target/... 
+touch src/$dir/.corpus.project.$last
+../corpus/gitsave
+git add src
+git commit -a -m "addproject $target"
+cd ../corpus
+git pull ../corpus.tmp
+

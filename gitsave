@@ -1,0 +1,33 @@
+#!/bin/bash
+
+root=$(cd ..; pwd)
+bad=false
+for i in $(find src -name .hg -o -name .bzr -o -name .svn); do
+	bad=true
+	echo $i unsupported >&2
+done
+$bad && exit 2
+
+for i in $(find src -type d -a -name .git); do (
+	set -e
+	path=$(echo $i | sed 's;src/;;; s;/\.git$;;')
+	name=$(echo $path | sed 's;/;_;g')
+	base=$(echo $path | sed 's;.*/;;;')
+	cd $i/..
+	url="$(git config remote.origin.url)"
+	case "$url" in
+	http* | ssh*)
+		if [ ! -d "$root/gitcache_$name" ]; then
+			git clone --bare . $root/gitcache_$name
+			(
+				cd "$root/gitcache_$name"
+				git config remote.origin.url "$url"
+			)
+		fi
+		git config remote.origin.url "$root/gitcache_$name"
+		git log -n1 >../.corpus.rev.$base
+		echo "$url" >../.corpus.url.$base
+		rev=$(git log -n1 | sed 1q | awk '{print $2}')
+		git reset --hard "$rev"
+	esac		
+) || exit 1; done
