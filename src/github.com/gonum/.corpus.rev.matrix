@@ -1,0 +1,8 @@
+commit a56036f227eaa97c559569fc735dae782f3a7848
+Merge: 704601a 73fca66
+Author: Brendan Tracey <tracey.brendan@gmail.com>
+Date:   Tue Jan 17 23:01:04 2017 -0700
+
+    Merge pull request #424 from gonum/addpowpsd
+    
+    Add power function for symmetric positive definite matrices

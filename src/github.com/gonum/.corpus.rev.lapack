@@ -1,0 +1,6 @@
+commit bf35376ccb9855357148de9f033bcdfa7f834e56
+Merge: 9801cea eeb6e6d
+Author: Vladimir Chalupecky <vladimir.chalupecky@gmail.com>
+Date:   Fri Dec 9 18:47:25 2016 +0100
+
+    Merge branch 'cgo-exts2'

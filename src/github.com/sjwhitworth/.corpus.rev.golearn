@@ -1,0 +1,8 @@
+commit 37715b5c67a855e501915651c5078d07b32683cb
+Merge: 72768fa 1d77ccd
+Author: Richard Townsend <richard@sentimentron.co.uk>
+Date:   Wed Oct 12 22:13:44 2016 +0800
+
+    Merge pull request #152 from tmlbl/master
+    
+    Return errors allowing KNNClassifier to implement Classifier

@@ -1,0 +1,8 @@
+commit b7e9c0daf02ad8ab3cf9b9b744224895a05ec23b
+Merge: 137ec3a 36369c4
+Author: Dan Kortschak <dan.kortschak@adelaide.edu.au>
+Date:   Thu Jan 12 14:49:31 2017 +1030
+
+    Merge pull request #194 from evertlammerts/master
+    
+    changes based on comments in gonum/integrate#33
