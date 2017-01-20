@@ -1,0 +1,5 @@
+commit ebc3d232f4b6c197d5dc5da2e1868d56b2096f1a
+Author: Péter Szilágyi <peterke@gmail.com>
+Date:   Fri Jan 20 02:12:14 2017 +0200
+
+    eth/downloader: fix mutex regression causing panics on fail (#3591)
