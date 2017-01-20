@@ -1,0 +1,10 @@
+commit e641a0f2e9652ab43ac57da98a0592ea776dbcf5
+Author: Dmitri Shuralyov <shurcooL@gmail.com>
+Date:   Fri Jan 13 15:10:07 2017 -0500
+
+    Rename tests folder to test.
+    
+    Follows Go style, also goxjs/gl@3733311536412344539fb82ee1c2226f93384838,
+    and github.com/goxjs/example/... packages.
+    
+    Source: https://dmitri.shuralyov.com/idiomatic-go#use-singular-form-for-collection-repo-folder-name

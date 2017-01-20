@@ -1,0 +1,9 @@
+commit b303bcb3e83b7ef645a5104e1c2db7f8d9e8918a
+Author: Dmitri Shuralyov <shurcooL@gmail.com>
+Date:   Sun Aug 14 16:08:23 2016 -0700
+
+    Add v{4.2,4.3}-{core,compatibility}/gl prebuilt packages for OpenGL 4.2 and 4.3.
+    
+    Resolves #59.
+    
+    Update README to mention all available prebuilt packages.

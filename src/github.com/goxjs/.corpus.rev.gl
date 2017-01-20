@@ -1,0 +1,9 @@
+commit 3733311536412344539fb82ee1c2226f93384838
+Author: Dmitri Shuralyov <shurcooL@gmail.com>
+Date:   Fri Jan 13 15:06:13 2017 -0500
+
+    Rename tests package to test.
+    
+    Follows Go style.
+    
+    Source: https://dmitri.shuralyov.com/idiomatic-go#use-singular-form-for-collection-repo-folder-name

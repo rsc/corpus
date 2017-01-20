@@ -1,0 +1,10 @@
+commit 6e7202f2d691ed1d79bcdaed6cce0061006ce565
+Author: Cholerae Hu <choleraehyq@gmail.com>
+Date:   Tue Nov 1 03:01:12 2016 -0500
+
+    README: Add package dependencies on CentOS/Fedora-like distribution. (#176)
+    
+    I've already tested this dependencies list on CentOS 7 and Fedora 24.
+    Redhat is not free, so I cannot test on it right now.
+    
+    Helps #175.
