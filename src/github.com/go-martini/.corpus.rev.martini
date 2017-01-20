@@ -1,0 +1,9 @@
+commit fe605b5cd210047ae3bb73d2b69a5b912a9b423d
+Author: Henning Vogt <git@henvo.de>
+Date:   Thu Sep 8 09:09:01 2016 +0200
+
+    Fix typo in german translation (#399)
+    
+    The original file says "This makes Martini completely compatible with golang's http.HandlerFunc interface."
+    
+    The german translation here negates this statement by saying "inkompatibel" which means "not compatible".

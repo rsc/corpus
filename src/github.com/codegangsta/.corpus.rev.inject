@@ -1,0 +1,8 @@
+commit 33e0aa1cb7c019ccc3fbe049a8262a6403d30504
+Merge: 4b81725 a1515ca
+Author: Jeremy Saenz <jeremy.saenz@gmail.com>
+Date:   Wed Jan 14 15:56:00 2015 -0800
+
+    Merge pull request #25 from ssbunny/master
+    
+    add 'readme_zh_cn.md'
