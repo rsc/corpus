@@ -1,0 +1,9 @@
+commit e2212d40c62a98b388a5eb48ecbdcf88534688ba
+Merge: 041ca04 18392f5
+Author: Javier Provecho Fernandez <javiertitan@gmail.com>
+Date:   Sun Dec 4 23:13:08 2016 +0100
+
+    v1.1.4
+    
+    # Conflicts:
+    #	logger.go

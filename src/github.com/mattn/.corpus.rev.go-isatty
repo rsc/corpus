@@ -1,0 +1,8 @@
+commit 30a891c33c7cde7b02a981314b4228ec99380cca
+Merge: 66b8e73 f1c0fea
+Author: mattn <mattn.jp@gmail.com>
+Date:   Wed Nov 23 23:36:37 2016 +0900
+
+    Merge pull request #11 from grafov/master
+    
+    Fix argument type.

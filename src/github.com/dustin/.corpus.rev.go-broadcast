@@ -1,0 +1,5 @@
+commit 3bdf6d4a7164a50bc19d5f230e2981d87d2584f1
+Author: Dustin Sallings <dustin@spy.net>
+Date:   Thu Jun 26 21:00:55 2014 -0700
+
+    Make use of testing.B.RunParallel
