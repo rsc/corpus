@@ -1,0 +1,7 @@
+commit ed27b6fd65218132ee50cd95f38474a3d8a2cd12
+Author: DeepAnchor <DeepAnchor@users.noreply.github.com>
+Date:   Sat Jun 18 12:32:21 2016 -0700
+
+    Extend Chain API, fix typos (#13)
+    
+    Extend Chain API with 'Add' and 'With' methods.

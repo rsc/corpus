@@ -1,0 +1,7 @@
+commit a62a804a8a009876ca59105f7899938a1349f4b3
+Author: Ganesh Hegde <xgt008@gmail.com>
+Date:   Sat Jun 18 04:49:35 2016 +0530
+
+    Return 200 if Passthrough is disabled (#26)
+    
+    Return OK if passthrough is false

@@ -1,0 +1,8 @@
+commit 7d12ae2201fc160e486197614a6f65afcf3f8170
+Merge: a2f972c 68e6749
+Author: will@newrelic.com <will@newrelic.com>
+Date:   Wed Nov 16 14:44:47 2016 -0800
+
+    Merge pull request #96 from will/changelog
+    
+    Improve changelog

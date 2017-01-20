@@ -1,0 +1,5 @@
+commit d987058b55eb470a35e9e18169011cd44bb20cc9
+Author: Gleicon Moraes <gleicon@gmail.com>
+Date:   Sun Jan 3 23:03:33 2016 -0200
+
+    ZRANGEBYSCORE e ZREVRANGEBYSCORE

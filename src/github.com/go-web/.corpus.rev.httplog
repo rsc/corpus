@@ -1,0 +1,5 @@
+commit 580d0d49f0d3990a37bf9f11f7b14d4021c5d8fc
+Author: Alexandre Fiori <fiorix@gmail.com>
+Date:   Tue Apr 12 19:27:24 2016 -0400
+
+    Implement auxiliary http interfaces

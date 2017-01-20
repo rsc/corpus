@@ -1,0 +1,15 @@
+commit 4cf6490e82edd288b91d6a786d85dab042015e24
+Author: Gregory Oschwald <goschwald@maxmind.com>
+Date:   Fri Dec 30 16:38:52 2016 -0800
+
+    Take advantage of string([]byte) optimization
+    
+    Previously, we used unsafe to avoid copying the bytes from the buffer
+    when doing the map lookup for the struct field. The Go compiler has a
+    special optimization for string([]byte) lookups that we can take
+    advantage of instead:
+    
+    https://github.com/golang/go/issues/3512
+    
+    This reduces code complexity a bit and eliminates unsafe usage for
+    non-Windows builds.
