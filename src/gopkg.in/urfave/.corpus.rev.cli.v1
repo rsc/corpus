@@ -1,0 +1,8 @@
+commit 0bdeddeeb0f650497d603c4ad7b20cfe685682f6
+Merge: 3ba36a3 0ef6582
+Author: Jesse Szwedko <jesse.szwedko@gmail.com>
+Date:   Mon Nov 21 20:36:10 2016 -0800
+
+    Merge pull request #569 from urfave/prepare-1-19-1
+    
+    Prep 1.19.1
