@@ -1,0 +1,8 @@
+commit 9232a6386b737d7d1e5c1c6e817aa48d5d8ee7cd
+Merge: 4ce5f9a 4a5420c
+Author: James C Scott III <jcscottiii@users.noreply.github.com>
+Date:   Tue Oct 13 09:03:26 2015 -0400
+
+    Merge pull request #5 from 18F/eliminate-content-length-check
+    
+    Eliminate content length check in requestSignature
