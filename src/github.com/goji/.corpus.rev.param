@@ -1,0 +1,8 @@
+commit d7f49fd7d1ed53fd562e737a8b5bbcc7e3d925e2
+Merge: 0b4aa9f daefced
+Author: Carl Jackson <carl@avtok.com>
+Date:   Tue Sep 27 14:03:35 2016 -0700
+
+    Merge pull request #5 from yyoshiki41/go1.6/reflect
+    
+    Exclude exported fields in embedded structs

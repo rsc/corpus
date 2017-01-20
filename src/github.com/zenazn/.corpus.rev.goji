@@ -1,0 +1,9 @@
+commit 4d7077956293261309684d3cf1af673f773c6819
+Author: Evan Broder <evan@ebroder.net>
+Date:   Mon Aug 22 20:05:49 2016 -0700
+
+    bind: Add DefaultBind for overriding default fallback (#190)
+    
+    If bind.DefaultBind is set before calling bind.WithFlag(), that value
+    will be used as the fallback (assuming that none of the various
+    enviornmental hints are set) instead of :8000.
