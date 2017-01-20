@@ -1,0 +1,14 @@
+commit 314dd2c0bf3ebd592ec0d20847d27e79d0dbe8dd
+Author: Tristan Colgate <tcolgate@gmail.com>
+Date:   Wed Dec 14 09:25:55 2016 +0000
+
+    golang.org/x/oauth2/jwt: Set kid to KeyID of private key
+    
+    Set the KeyID hint in the token header. This allows remote servers to
+    identify the key used to sign the message.
+    
+    Fixes #18307
+    
+    Change-Id: Ib95398079833aad6b390650b465d7b09b5f53fda
+    Reviewed-on: https://go-review.googlesource.com/34320
+    Reviewed-by: Jaana Burcu Dogan <jbd@google.com>
