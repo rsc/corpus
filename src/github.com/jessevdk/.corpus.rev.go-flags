@@ -1,0 +1,7 @@
+commit 4e64e4a4e2552194cf594243e23aa9baf3b4297e
+Author: Jesse van den Kieboom <jessevdk@gmail.com>
+Date:   Thu Dec 15 11:56:53 2016 +0100
+
+    Set a minimum length for wrapping text
+    
+    Fixes #199.
