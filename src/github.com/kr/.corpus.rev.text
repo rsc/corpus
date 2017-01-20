@@ -1,0 +1,5 @@
+commit 7cafcd837844e784b526369c9bce262804aebc60
+Author: Keith Rarick <kr@xph.us>
+Date:   Tue May 3 19:26:26 2016 -0700
+
+    cmd/agg: new command
