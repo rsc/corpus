@@ -1,0 +1,8 @@
+commit a79b5ec50b8b0adc4dcfd825ab5127182b3fbe1e
+Merge: c7145a0 3f20d20
+Author: Nathan LeClaire <nathanleclaire@gmail.com>
+Date:   Tue Jan 17 13:58:35 2017 -0800
+
+    Merge pull request #3954 from nathanleclaire/revert_docker_api_version
+    
+    Revert "Add DOCKER_API_VERSION to env"
