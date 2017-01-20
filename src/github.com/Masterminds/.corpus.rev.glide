@@ -1,0 +1,8 @@
+commit b5e17dc5b955dfa19539f84a53a30b9f61f2000a
+Merge: b510141 f4da20a
+Author: sam boyer <tech@samboyer.org>
+Date:   Wed Dec 7 14:44:26 2016 -0500
+
+    Merge pull request #681 from ngdinhtoan/patch-1
+    
+    Add glide-cleanup plugin
