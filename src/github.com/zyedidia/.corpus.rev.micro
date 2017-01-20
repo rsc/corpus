@@ -1,0 +1,11 @@
+commit ea57d8b883ef3337471564c5b5a6a32129fbbddb
+Author: Samantha Marshall <samdmarshall@users.noreply.github.com>
+Date:   Tue Jan 17 16:34:11 2017 -0500
+
+    Adding additional Python and Objective-C linting (#524)
+    
+    * adding mypy and pylint to the linter plugin
+    
+    * adding objective-c linting
+    
+    * updating runtime file

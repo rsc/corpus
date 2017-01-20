@@ -1,0 +1,5 @@
+commit b23993cbb6353f0e6aa98d0ee318a34728f628b9
+Author: Garrett D'Amore <garrett@damore.org>
+Date:   Tue Dec 15 13:28:35 2015 -0800
+
+    fixes #4 text/encoding API changed, breaking us

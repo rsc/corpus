@@ -1,0 +1,5 @@
+commit adacf416cec40266b051e7bc096c52951f2725e9
+Author: Zachary Yedidia <zyedidia@gmail.com>
+Date:   Mon Dec 26 13:48:59 2016 -0500
+
+    Fix compilation error

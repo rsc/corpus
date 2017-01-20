@@ -1,0 +1,5 @@
+commit b8bc1bf767474819792c23f32d8286a45736f1c6
+Author: Mitchell Hashimoto <mitchell.hashimoto@gmail.com>
+Date:   Sat Dec 3 11:45:07 2016 -0800
+
+    Fix broken logic merged from #9

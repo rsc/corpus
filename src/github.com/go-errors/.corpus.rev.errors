@@ -1,0 +1,5 @@
+commit 8fa88b06e5974e97fbf9899a7f86a344bfd1f105
+Author: Conrad Irwin <conrad.irwin@gmail.com>
+Date:   Mon Dec 5 14:32:45 2016 -0800
+
+    Satisfy bugsnag ErrorWithCallers

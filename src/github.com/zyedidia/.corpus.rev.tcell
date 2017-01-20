@@ -1,0 +1,7 @@
+commit f03d5b8b2730cb2578c427d120a5692ca54fb67b
+Author: Zachary Yedidia <zyedidia@gmail.com>
+Date:   Fri Sep 30 17:30:42 2016 -0400
+
+    Use TPuts to enable/disable bracketed paste
+    
+    See zyedidia/micro#390

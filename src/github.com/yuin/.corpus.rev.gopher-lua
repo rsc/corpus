@@ -1,0 +1,5 @@
+commit 66c871e454fcf10251c61bf8eff02d0978cae75a
+Author: yuin <yuin@inforno.net>
+Date:   Thu Jan 19 11:36:43 2017 +0900
+
+    Issue #91 : repeat operators should only be effective just after a single character class
