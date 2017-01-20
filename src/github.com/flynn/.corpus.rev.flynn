@@ -1,0 +1,12 @@
+commit 4e7a7febac23e10c25a8bdf1f5981a9daffd6df5
+Author: Lewis Marshall <lewis@lmars.net>
+Date:   Wed Jan 18 21:20:05 2017 +0000
+
+    host: Repair MongoDB cluster before the controller
+    
+    So that it is started with the volume from the previous primary when
+    rebooting a single node cluster.
+    
+    Fixes #3847.
+    
+    Signed-off-by: Lewis Marshall <lewis@lmars.net>
