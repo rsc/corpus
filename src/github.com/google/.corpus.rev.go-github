@@ -1,0 +1,10 @@
+commit c9c37fd6ce0247943d1aa34fc3813c62c5cb0225
+Author: Dmitri Shuralyov <shurcooL@gmail.com>
+Date:   Thu Jan 19 02:22:36 2017 -0500
+
+    Don't require client_secret to be present.
+    
+    Only test that secret is not included.
+    
+    It seems versions of Go 1.6 and older did not include the URL query
+    parameters.

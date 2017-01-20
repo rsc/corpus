@@ -1,0 +1,9 @@
+commit ab3a57ead50194947dc78c9c932b424bd9aa2c1a
+Author: rich <rich@scientificrevenue.com>
+Date:   Sat Aug 23 16:05:06 2014 -0700
+
+    support a hierarchy of .gitignores
+    
+    use the user's ~/.gitignore and also the first .gitignore in the directory
+    hierarchy above the current dir.  and, provide a method to manage
+    a stack of .gitignore as you move thru directories

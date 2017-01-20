@@ -1,0 +1,5 @@
+commit 0a9835d809fb647a62611d30cb792e0b5dd65b11
+Author: James Hartig <james@getadmiral.com>
+Date:   Wed Aug 24 10:25:09 2016 -0400
+
+    Fix travis-ci

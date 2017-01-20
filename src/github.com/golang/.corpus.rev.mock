@@ -1,0 +1,15 @@
+commit bd3c8e81be01eef76d4b503f5e687d2d1354d2d9
+Author: Daniel Zepeda <dzepeda@rackspace.com>
+Date:   Thu Jan 21 12:51:14 2016 -0600
+
+    Add extra methods to control the number of times a call is expected.
+    
+    The following methods are added:
+    
+    * MinTimes(int) *Call
+    * MaxTimes(int) *Call
+    
+    These additions a user full control over the number of times an
+    expectation is called.
+    
+    Signed-off-by: David Symonds <dsymonds@golang.org>

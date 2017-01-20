@@ -1,0 +1,7 @@
+commit 314dcfc2b335cecf9ea4a2c5a3e7cf19e5802389
+Author: TJ Holowaychuk <tj@vision-media.ca>
+Date:   Thu May 12 08:39:09 2016 -0700
+
+    remove log.Trace call from Flush
+    
+    forgot that this is Info level, which is not ideal here

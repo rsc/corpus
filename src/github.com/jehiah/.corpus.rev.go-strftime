@@ -1,0 +1,8 @@
+commit 2efbe75097a505e2789f7e39cb9da067b5be8e3e
+Merge: 50f07ec 2abd2c2
+Author: Jehiah Czebotar <jehiah@gmail.com>
+Date:   Sun Dec 6 14:48:10 2015 -0500
+
+    Merge pull request #5 from theckman/fix_typo_in_test_function
+    
+    fix typo in Ruby strftime test function name

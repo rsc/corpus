@@ -1,0 +1,5 @@
+commit 0d6b6628b949eeb2e85fd0ab97152656cd3d2d0e
+Author: TJ Holowaychuk <tj@vision-media.ca>
+Date:   Wed Mar 23 17:13:19 2016 -0700
+
+    fix Confirm on windows

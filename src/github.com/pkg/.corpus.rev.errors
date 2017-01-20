@@ -1,0 +1,5 @@
+commit 248dadf4e9068a0b3e79f02ed0a610d935de5302
+Author: Alexey Palazhchenko <alexey.palazhchenko@gmail.com>
+Date:   Sat Oct 29 12:36:37 2016 +0300
+
+    Bump Go versions (#91)

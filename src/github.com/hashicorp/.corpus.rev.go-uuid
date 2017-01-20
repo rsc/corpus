@@ -1,0 +1,8 @@
+commit 64130c7a86d732268a38cb04cfbaf0cc987fda98
+Merge: 019a056 ba5ca2e
+Author: Jeff Mitchell <jeff@hashicorp.com>
+Date:   Sat Jul 16 22:21:40 2016 -0400
+
+    Merge pull request #6 from hashicorp/revert-4-patch-1
+    
+    Revert "Test Travis build"

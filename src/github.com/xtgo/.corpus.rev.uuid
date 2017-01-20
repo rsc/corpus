@@ -1,0 +1,8 @@
+commit a0b114877d4caeffbd7f87e3757c17fce570fea7
+Merge: e90346e 6e8db09
+Author: Kevin Gillette <extemporalgenome@gmail.com>
+Date:   Sun Aug 3 20:12:11 2014 -0600
+
+    Merge pull request #1 from extemporalgenome/master
+    
+    Transparently replaced direct fmt dependency.

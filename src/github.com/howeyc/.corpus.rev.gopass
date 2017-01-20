@@ -1,0 +1,9 @@
+commit bf9dde6d0d2c004a008c27aaee91170c786f6db8
+Author: vyzo <vyzo@hackzen.org>
+Date:   Mon Jan 9 18:22:49 2017 +0200
+
+    GetPasswdPrompt: interface to specify output writer (#35)
+    
+    * GetPasswdPrompt: generic interface, with password prompt
+    
+    * narrow getCh reader interface, doesn't need Fd
