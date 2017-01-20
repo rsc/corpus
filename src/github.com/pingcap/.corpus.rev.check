@@ -1,0 +1,7 @@
+commit 9b266636177e249ec28b0aeffe8e86bc272bb481
+Author: tiancaiamao <tiancaiamao@gmail.com>
+Date:   Tue Nov 22 17:53:54 2016 +0800
+
+    provide Parallel() to run test parallel (#7)
+    
+    * provide Parallel() to run test parallel

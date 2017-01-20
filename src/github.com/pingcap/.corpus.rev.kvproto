@@ -1,0 +1,5 @@
+commit 007487fecab1fb30f0d32964463c543cd0114bcc
+Author: Jay <busyjaylee@gmail.com>
+Date:   Wed Jan 18 16:26:49 2017 +0800
+
+    use explicit compact index (#137)

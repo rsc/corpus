@@ -1,0 +1,12 @@
+commit 6f54ff6318409d31ff16261533ce2c8381a4fd5d
+Merge: b2c7a7d f94f6e4
+Author: Juju bot <jujubot@users.noreply.github.com>
+Date:   Tue Aug 9 04:08:48 2016 +0100
+
+    Merge pull request #25 from davecheney/fixedbugs/1580391
+    
+    fixes LP 1580391
+    
+    
+    
+    (Review request: http://reviews.vapour.ws/r/4803/)

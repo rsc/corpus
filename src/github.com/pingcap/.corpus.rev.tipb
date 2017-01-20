@@ -1,0 +1,8 @@
+commit 378c9b0cba112f6f7335b3c86df6fd76c0dcfb78
+Author: Gregory Ian <ArGregoryIan@gmail.com>
+Date:   Thu Dec 15 11:51:59 2016 +0800
+
+    binlog: use stream to pull binlogs (#26)
+    
+    * use stream to pull binlogs and add notify rpc interface to cistern
+    * remove cistern's getLatestCommitTs interface

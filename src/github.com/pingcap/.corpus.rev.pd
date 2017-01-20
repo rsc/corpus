@@ -1,0 +1,7 @@
+commit 550ba5e70d473762039ca7b432bf955a885237b4
+Author: Huachao Huang <huachao.huang@gmail.com>
+Date:   Sun Jan 15 17:44:57 2017 +0800
+
+    pdctl/command: add format option (#476)
+    
+    * pdctl/command: add format option

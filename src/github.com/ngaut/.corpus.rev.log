@@ -1,0 +1,8 @@
+commit cec23d3e10b016363780d894a0eb732a12c06e02
+Merge: 37d3e0f 318f77d
+Author: goroutine <ngaut@users.noreply.github.com>
+Date:   Tue Aug 9 19:30:11 2016 -0700
+
+    Merge pull request #3 from siddontang/siddontang/stderr
+    
+    log: use stderr instead

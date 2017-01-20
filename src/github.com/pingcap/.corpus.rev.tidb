@@ -1,0 +1,5 @@
+commit 30f97af07fc4aecd8393a49830b35686dcb21e88
+Author: Zhe-xuan Yang <zhexuany@users.noreply.github.com>
+Date:   Thu Jan 19 19:24:05 2017 +0800
+
+    *: fixed a mistake whileing adding sqrt math func (#2513)

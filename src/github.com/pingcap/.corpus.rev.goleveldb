@@ -1,0 +1,5 @@
+commit 158edde5a354460121af007d02a00b01c8d03443
+Author: tiancaiamao <tiancaiamao@gmail.com>
+Date:   Mon Oct 10 18:10:21 2016 +0800
+
+    memdb: use a bit rand generator (#4)

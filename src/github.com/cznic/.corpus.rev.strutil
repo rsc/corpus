@@ -1,0 +1,5 @@
+commit 7cacf66b7e1bd697d83ea7e97f36960b6e93d909
+Author: Jan Mercl <0xjnml@gmail.com>
+Date:   Mon Jan 16 13:48:09 2017 +0100
+
+    Add {Gopath,ImportPath}().

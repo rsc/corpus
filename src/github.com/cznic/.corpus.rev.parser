@@ -1,0 +1,5 @@
+commit 31edd927e5b19d1c4a260c41a397e7f81d6694d9
+Author: Jan Mercl <0xjnml@gmail.com>
+Date:   Wed Jun 22 12:09:04 2016 +0200
+
+    Allow dot in names. Fixes #4.

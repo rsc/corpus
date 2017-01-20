@@ -1,0 +1,5 @@
+commit 4c7342852e65c2088c981288f2c5610d10b9f7f4
+Author: Jan Mercl <0xjnml@gmail.com>
+Date:   Wed Jun 17 10:33:42 2015 +0200
+
+    Add utils for math/big.{Int,Rat}.

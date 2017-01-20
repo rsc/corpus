@@ -1,0 +1,8 @@
+commit 7bbe408d339787c56ec15568c947c0959db1b275
+Merge: b505f2c 572c2fc
+Author: Daniel Kemp <twinj@users.noreply.github.com>
+Date:   Fri Sep 9 17:54:38 2016 +1000
+
+    Merge pull request #48 from vporoshok/master
+    
+    Fix Scan postgres uuid
