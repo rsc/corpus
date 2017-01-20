@@ -1,0 +1,8 @@
+commit a498c022b2c0babab2bf9c0400754190b24c8c39
+Merge: 3a2d960 83519dd
+Author: Michael Hoisie <hoisie@gmail.com>
+Date:   Tue Aug 9 07:13:53 2016 -0700
+
+    Merge pull request #207 from hoisie/key-cleanup
+    
+    Move encKey and signKey from ServerConfig to Server
