@@ -1,0 +1,8 @@
+commit 3b7060c2c464b22a612dd09d6771b760f1f591fc
+Merge: 52aeb2e 7bf0ad8
+Author: Fei Chen <flikecn@126.com>
+Date:   Sun Jan 15 10:26:49 2017 +0800
+
+    Merge pull request #307 from silenceper/master
+    
+    support truncate table on shard table #290
