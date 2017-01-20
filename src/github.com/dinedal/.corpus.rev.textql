@@ -1,0 +1,7 @@
+commit cede4e1e7ec8c832f03981188312392aff6816a2
+Author: Paul Bergeron <paul.d.bergeron@gmail.com>
+Date:   Wed Feb 24 23:52:10 2016 -0800
+
+    Return errors from ExecuteSQLString() in storage
+    
+    I hate breaking changes, I really do, but this needed to be done
