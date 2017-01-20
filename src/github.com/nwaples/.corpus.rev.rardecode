@@ -1,0 +1,5 @@
+commit f22b7ef81a0afac9ce1447d37e5ab8e99fbd2f73
+Author: Nicholas Waples <nwaples@gmail.com>
+Date:   Thu Jan 12 22:05:16 2017 +1100
+
+    move block alignment from fileBlockReader.next() to packedFileReader

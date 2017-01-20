@@ -1,0 +1,8 @@
+commit 24d540239654d76e79c8f4e3d5bd56d90712becb
+Merge: 3db6961 fa97152
+Author: Matt Holt <mholt@users.noreply.github.com>
+Date:   Wed Jan 11 07:32:56 2017 -0700
+
+    Merge pull request #19 from kinvolk/type-block-fifo
+    
+    tar: Add TypeChar, TypeBlock and TypeFifo header flags support

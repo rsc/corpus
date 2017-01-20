@@ -1,0 +1,11 @@
+commit aa2e30fdd1fe9dd3394119af66451ae790d50e0d
+Merge: 139276c e18a743
+Author: Cedric Staub <cs@squareup.com>
+Date:   Thu Sep 22 17:08:11 2016 -0700
+
+    Merge branch 'master' into v1
+    
+    * master:
+      Better docs explaining embedded JWKs
+      Reject invalid embedded public keys
+      Improve multi-recipient/multi-sig handling

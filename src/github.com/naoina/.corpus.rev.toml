@@ -1,0 +1,7 @@
+commit 751171607256bb66e64c9f0220c00662420c38e9
+Author: Alexandre Viau <alexandre@alexandreviau.net>
+Date:   Mon Jul 27 08:48:37 2015 -0400
+
+    fixed typo: 'themshelves' -> 'themselves'
+    
+    Closes #9

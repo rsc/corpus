@@ -1,0 +1,8 @@
+commit 0a025b7e63adc15a622f29b0b2c4c3848243bbf6
+Merge: a0d98a5 f0ee9fa
+Author: Sean Chittenden <sean@chittenden.org>
+Date:   Sat Aug 13 15:13:03 2016 -0700
+
+    Merge pull request #28 from yuokada/misspell
+    
+    Fix misspelled words

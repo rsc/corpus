@@ -1,0 +1,14 @@
+commit ecf852ea43db136da5513da76f5f95bddd6aab04
+Author: Tw <tw19881113@gmail.com>
+Date:   Thu Jan 19 06:34:25 2017 +0800
+
+    proxy: fix TestReverseProxy failure on go tip (#1360)
+    
+    Because of this commit(6e36811c37399d60cbce587b7c48e611009c5aec) on go tip,
+    it will probe the request's body to determine whether to use chunked transfer
+    encoding which trailers depend on it.
+    So we just offer a non empty body to make trailers work.
+    
+    fix issue #1359
+    
+    Signed-off-by: Tw <tw19881113@gmail.com>

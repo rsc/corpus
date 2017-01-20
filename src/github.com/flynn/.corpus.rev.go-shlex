@@ -1,0 +1,8 @@
+commit 3f9db97f856818214da2e1057f8ad84803971cff
+Merge: 70644ac db82c41
+Author: Jonathan Rudenberg <jonathan@titanous.com>
+Date:   Fri May 15 10:53:56 2015 -0400
+
+    Merge pull request #5 from imikushin/quoted-chars
+    
+    Allow arbitrary chars in comments and quoted strings

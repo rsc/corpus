@@ -1,0 +1,16 @@
+commit f5d538caab6dc0c167d4e32990c79bbf9eff578c
+Author: Matt Holt <mholt@users.noreply.github.com>
+Date:   Sun Jan 15 08:54:49 2017 -0700
+
+    Close response body in error case and close first one (#341)
+    
+    * Close response body in error case
+    
+    * Ensure the body of both responses is closed when polling for cert
+    
+    Also make a new const of maxBodySize, and cap the number of polls
+    to a maximum of 1000.
+    
+    * More correct placement for polling limit
+    
+    * Move const to the top

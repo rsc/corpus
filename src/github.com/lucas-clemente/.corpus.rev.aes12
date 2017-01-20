@@ -1,0 +1,8 @@
+commit 25700e67be5c860bcc999137275b9ef8b65932bd
+Merge: 8ee5b56 19913a2
+Author: Lucas Clemente <github@clemente.io>
+Date:   Thu Dec 15 16:22:28 2016 +0100
+
+    Merge pull request #3 from nwidger/master
+    
+    Rename 'cipher 2.go' to 'cipher_2.go'

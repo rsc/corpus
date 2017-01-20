@@ -1,0 +1,17 @@
+commit b9aab3c6a04eef14c56384b4ad065e7b73438862
+Author: Joe Tsai <joetsai@digital-static.net>
+Date:   Sun Jul 3 19:36:33 2016 -0700
+
+    all: alter APIs to use ReaderConfig and WriterConfig
+    
+    In order to keep the future open to API expansion, make NewReader
+    and NewWriter always take in a ReaderConfig and WriterConfig.
+    In order to ease the cost of the new NewReader/NewWriter API,
+    we guarantee that a nil Config will always use the default settings
+    and is guaranteed to always pass without failing.
+    
+    This is a breaking API change, but is done while adoption of this
+    library is still young. Subsequent pull requests will be made on the
+    very few repos that depend on this repo.
+    
+    Updates #55

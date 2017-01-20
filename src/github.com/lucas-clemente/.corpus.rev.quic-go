@@ -1,0 +1,7 @@
+commit 86e02c4d2c459b70073cd5c39468e8a5a22db45a
+Author: Marten Seemann <martenseemann@gmail.com>
+Date:   Wed Jan 18 14:19:53 2017 +0700
+
+    use cryptographic random to generate new connection IDs
+    
+    fixes #348

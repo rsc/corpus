@@ -1,0 +1,8 @@
+commit 76f94b7c69c6f84be96bcfc2443042b198689565
+Author: Ulrich Kunitz <ulikunitz@users.noreply.github.com>
+Date:   Fri Dec 2 22:56:20 2016 +0100
+
+    Release 0.5.2
+    
+    The commit contains the updated TODO.md, version and license updates as
+    well as the release notes.

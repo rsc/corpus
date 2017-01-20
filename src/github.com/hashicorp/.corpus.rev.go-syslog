@@ -1,0 +1,9 @@
+commit b609c7d9de4658cded34a7336b90886c56f9dbdb
+Author: Sean Chittenden <sean@chittenden.org>
+Date:   Tue Dec 13 10:42:51 2016 -0800
+
+    Chase upstream syslog changes found in Go runtime:
+    
+    https://github.com/golang/go/commit/5a1906dc47638840b6db96edb11ffe1fb011caad
+    
+    Fixes: #3

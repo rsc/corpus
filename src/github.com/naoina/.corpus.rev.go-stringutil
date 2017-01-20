@@ -1,0 +1,7 @@
+commit 6b638e95a32d0c1131db0e7fe83775cbea4a0d0b
+Author: Naoya Inada <naoina@kuune.org>
+Date:   Thu Nov 19 08:44:43 2015 +0900
+
+    Change to not use unsafe package
+    
+    Closes #1

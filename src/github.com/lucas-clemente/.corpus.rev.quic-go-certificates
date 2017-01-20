@@ -1,0 +1,7 @@
+commit d2f86524cced5186554df90d92529757d22c1cb6
+Author: Lucas Clemente <github@clemente.io>
+Date:   Tue Aug 23 11:51:56 2016 +0200
+
+    add MIT license
+    
+    fixes #1
