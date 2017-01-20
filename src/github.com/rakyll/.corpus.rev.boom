@@ -1,0 +1,7 @@
+commit e99ce27f0878c1d266c8a3c266029038e78c5380
+Author: Jaana Burcu Dogan <jbd@google.com>
+Date:   Fri Sep 2 13:02:15 2016 -0700
+
+    Deprecate the boom command in favor of hey
+    
+    Fixes #130.
