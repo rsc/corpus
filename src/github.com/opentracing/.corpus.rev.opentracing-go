@@ -1,0 +1,5 @@
+commit 5e5abf838007b08f96ae057bc182636a178da0b9
+Author: Anthony Voutas <voutasaurus@gmail.com>
+Date:   Sat Dec 31 13:23:24 2016 -0800
+
+    log: avoid panic marshaling nil error (#131)

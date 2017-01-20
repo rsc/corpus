@@ -1,0 +1,8 @@
+commit 5b9b70908c0e32b53e17215ee6e9515b02ad08b2
+Merge: 9c8d18c cc15e4a
+Author: Stephen Gutekanst <slimsag@users.noreply.github.com>
+Date:   Tue Nov 29 21:15:50 2016 -0700
+
+    Merge pull request #186 from alanjds/basictracer-update
+    
+    FIX start_span(): basictracer-python was updated

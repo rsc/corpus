@@ -1,0 +1,6 @@
+commit 100eb0c0a9c5b306ca2fb4f165df21d80ada4b82
+Merge: a0e7aa9 6f28b8e
+Author: Chris Hines <github@cs-guy.com>
+Date:   Fri May 13 23:44:11 2016 -0400
+
+    Merge branch 'release/v1.5.2'

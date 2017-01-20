@@ -1,0 +1,27 @@
+commit 1d7be4effb13d2d908342d349d71a284a7542693
+Author: Gustav Paul <gpaul@mesosphere.io>
+Date:   Fri Oct 28 16:23:40 2016 -0700
+
+    fix spin in (*Lock).Lock() (#145)
+    
+    Consider the case where there are two clients contending for a lock.
+    The first creates  '/lock/00000'
+    The second creates '/lock/00001'
+    
+    Now, the first lists the children of '/lock' and sees that it has
+    created the lock and returns.
+    
+    The second starts looping through the children in the aforementioned order.
+    Before the first child is processed we have
+    lowestSeq=1
+    prevSeq=0
+    prevSeqPath=""
+    
+    Since the first child is '00000' we set lowestSeq=0.
+    However, prevSeq == s, so the second condition fails and
+    we don't update the prevSeqPath.
+    
+    Then we process '00001' and again, since s == seq, so !(s<seq), we again
+    don't update prevSeqPath.
+    
+    This leads to a scenario where lowerdown we call GetW("/lock/") instead of GetW("/lock/00000")

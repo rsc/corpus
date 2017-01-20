@@ -1,0 +1,9 @@
+commit 70a2e8ae52bb7cc978ffd05d64d50b82b06bdfe9
+Author: spoons <spoons@lightstep.com>
+Date:   Sun Jan 8 14:40:53 2017 -0800
+
+    update makefile; remove vendor directory (#70)
+    
+    * fix and update Makefile for new location of .thrift file
+    
+    * remove vendored gRPC

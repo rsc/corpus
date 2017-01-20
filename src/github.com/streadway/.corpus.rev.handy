@@ -1,0 +1,8 @@
+commit f450267a206e480d863d2a92846a40f6e2896b2a
+Merge: 2b0403a 632a0f4
+Author: Sean Treadway <sean@soundcloud.com>
+Date:   Sat Apr 2 22:03:21 2016 +0200
+
+    Merge pull request #27 from tsenart/master
+    
+    encoding: Add WriteHeader support to gzipWriter

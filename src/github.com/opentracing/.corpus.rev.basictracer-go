@@ -1,0 +1,8 @@
+commit 1b32af207119a14b1b231d451df3ed04a72efebf
+Merge: 017835e 723bb40
+Author: bhs <bensigelman@users.noreply.github.com>
+Date:   Thu Sep 29 15:04:58 2016 -0700
+
+    Merge pull request #39 from RaduBerinde/logevent-limit
+    
+    Add option for limiting the number of logs in a Span

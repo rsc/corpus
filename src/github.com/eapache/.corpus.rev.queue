@@ -1,0 +1,8 @@
+commit 44cc805cf13205b55f69e14bcb69867d1ae92f98
+Merge: f0262ae 9036dda
+Author: Evan Huus <eapache@gmail.com>
+Date:   Thu Aug 4 20:47:13 2016 -0400
+
+    Merge pull request #13 from gammazero/master
+    
+    Remove() returns item removed.

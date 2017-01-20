@@ -1,0 +1,7 @@
+commit b86b1ec0dd4209a588dc1285cdd471e73525c0b3
+Author: Evan Huus <eapache@gmail.com>
+Date:   Mon Jan 4 14:15:39 2016 -0500
+
+    deadline: adjust example comments
+    
+    They were rather unclear. Fixes #9.

@@ -1,0 +1,8 @@
+commit 5c9560bfa9ace2bf86080bf40d46b34ae44604df
+Merge: ed384a0 7bd399d
+Author: Pierre Curto <pierre.curto@gmail.com>
+Date:   Tue Dec 6 21:23:05 2016 +0100
+
+    Merge pull request #8 from WatchBeam/master
+    
+    Increase general compression efficiency

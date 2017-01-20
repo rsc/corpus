@@ -1,0 +1,8 @@
+commit 39520ddd07a9d9a071d615f7476798659f5a3b89
+Merge: ea77c44 f499309
+Author: keith <keith.thornhill@gmail.com>
+Date:   Wed Jun 15 13:50:02 2016 -0700
+
+    Merge pull request #48 from kayla90/getter
+    
+    add getter for Circuit map

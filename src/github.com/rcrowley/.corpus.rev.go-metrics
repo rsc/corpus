@@ -1,0 +1,8 @@
+commit 1f30fe9094a513ce4c700b9a54458bbb0c96996c
+Merge: 550432d 16ce6e1
+Author: Mikhail P <m@mihasya.com>
+Date:   Mon Nov 28 13:05:44 2016 -0800
+
+    Merge pull request #97 from Dieterbe/ExpDecaySample-url
+    
+    alternate paper location that doesn't 404
