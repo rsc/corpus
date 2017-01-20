@@ -1,0 +1,5 @@
+commit 457f21178102f4688603eccbb4f2e8d5ae1023bf
+Author: Gerasimos Maropoulos <kataras2006@hotmail.com>
+Date:   Fri Nov 11 12:06:00 2016 +0200
+
+    Fix panic on parallel (benchmarks) when Reload is true

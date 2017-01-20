@@ -1,0 +1,5 @@
+commit e746df99fe4a3986f4d4f79e13c1e0117ce9c2f7
+Author: Kirill Danshin <kirilldanshin@guava.by>
+Date:   Wed Aug 17 22:16:52 2016 +0400
+
+    Add benchmark results (#10)

@@ -1,0 +1,5 @@
+commit 76ba6c68462ae362cda7564c44492b95322b363a
+Author: Gerasimos (Makis) Maropoulos <kataras2006@hotmail.com>
+Date:   Sat Nov 19 15:53:50 2016 +0200
+
+    Make a better design using some of my older OOP ideas but Golang is limitted, they say that type or interface alias is not useful...wtf

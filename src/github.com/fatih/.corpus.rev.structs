@@ -1,0 +1,8 @@
+commit a720dfa8df582c51dee1b36feabb906bde1588bd
+Merge: 0b69e65 4655d20
+Author: Fatih Arslan <ftharsln@gmail.com>
+Date:   Tue Jan 3 10:10:50 2017 +0200
+
+    Merge pull request #80 from fatih/update-travis
+    
+    travis: use always latest Go version

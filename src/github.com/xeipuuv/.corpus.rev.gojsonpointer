@@ -1,0 +1,8 @@
+commit e0fe6f68307607d540ed8eac07a342c33fa1b54a
+Merge: 636edb2 4271c24
+Author: xeipuuv <xeipuuv@gmail.com>
+Date:   Tue Oct 27 16:21:46 2015 +0800
+
+    Merge pull request #1 from dolmen/patch-1
+    
+    Fix unclosed quotes in const_invalid_start message

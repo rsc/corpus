@@ -1,0 +1,5 @@
+commit 0bbd868d2fae7aa2577d5331f9166216a12ecb35
+Author: Gerasimos (Makis) Maropoulos <kataras2006@hotmail.com>
+Date:   Tue Jan 10 13:19:07 2017 +0200
+
+    Remove vendor folder because of https://github.com/gavv/httpexpect/pull/34

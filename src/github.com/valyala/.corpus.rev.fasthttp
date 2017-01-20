@@ -1,0 +1,5 @@
+commit 2ada93a6dff49eb212acf5d7faf2f6d9cfca729b
+Author: Aliaksandr Valialkin <valyala@gmail.com>
+Date:   Wed Jan 18 19:20:47 2017 +0200
+
+    Document that the cookie passed to ResponseHeader.SetCookie may be re-used after the function returns

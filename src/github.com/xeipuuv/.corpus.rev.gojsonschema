@@ -1,0 +1,8 @@
+commit f06f290571ce81ab347174c6f7ad2e1865af41a7
+Merge: 5760b62 6bfc183
+Author: xeipuuv <xeipuuv@gmail.com>
+Date:   Sat Dec 31 13:55:40 2016 +0800
+
+    Merge pull request #131 from emosbaugh/loader-custom-filesystem
+    
+    Fix jsonReferenceLoader for custom filesystems

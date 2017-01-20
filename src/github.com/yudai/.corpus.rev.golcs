@@ -1,0 +1,5 @@
+commit d1c525dea8ce39ea9a783d33cf08932305373f2c
+Author: Iwasaki Yudai <yudai@arielworks.com>
+Date:   Sun Apr 5 09:34:35 2015 -0700
+
+    Support IndexPairs()

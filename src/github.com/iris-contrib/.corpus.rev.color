@@ -1,0 +1,5 @@
+commit 1f565954a55c42b9c66ead36206e91e1d79bafa1
+Author: Gerasimos Maropoulos <makis@ideopod.com>
+Date:   Thu Jul 21 03:43:30 2016 +0300
+
+    Make it a little bit slower but fixes errors on iris logger when used with 'wrk' logger should not be used when benchmarks but users uses it

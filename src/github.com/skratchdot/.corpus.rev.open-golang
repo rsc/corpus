@@ -1,0 +1,8 @@
+commit 75fb7ed4208cf72d323d7d02fd1a5964a7a9073c
+Merge: c874831 aeb1cab
+Author: skratchdot <git@skratchdot.com>
+Date:   Wed Mar 2 09:40:31 2016 -0500
+
+    Merge pull request #10 from lawrencecraft/master
+    
+    Fixing #9 - not replacing ampersand in calls to rundll32

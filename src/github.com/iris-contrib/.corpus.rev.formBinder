@@ -1,0 +1,8 @@
+commit 81b6a071e35797b83562caf4b3cad24dc01912dc
+Merge: 023b477 1b7f893
+Author: Gerasimos (Makis) Maropoulos <kataras2006@hotmail.com>
+Date:   Thu Dec 15 12:50:04 2016 +0200
+
+    from @dan-0 Merge pull request #2 from dan-0/master
+    
+    Added ability to parse ISO 8601 date format on formBind.

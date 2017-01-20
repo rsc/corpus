@@ -1,0 +1,5 @@
+commit 523a5da1a92f01b01f840b61689c0340a0243532
+Author: Alvaro J. Genial <ajg@users.noreply.github.com>
+Date:   Mon Aug 22 19:00:20 2016 -0400
+
+    Show gopkg import alternative in README (#13)

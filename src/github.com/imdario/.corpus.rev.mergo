@@ -1,0 +1,8 @@
+commit 50d4dbd4eb0e84778abe37cefef140271d96fade
+Merge: e12c88a 130279f
+Author: Dario Castañé <i@dario.im>
+Date:   Tue May 17 08:44:35 2016 +0200
+
+    Merge pull request #28 from kataras/patch-1
+    
+    You use Iris, Iris uses mergo for config merge, nice job :)

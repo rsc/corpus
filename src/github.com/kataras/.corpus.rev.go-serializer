@@ -1,0 +1,5 @@
+commit 0bd874a15c70db74ef2e668e5eeda27041f03b81
+Author: Gerasimos Maropoulos <kataras2006@hotmail.com>
+Date:   Mon Oct 31 06:11:45 2016 +0200
+
+    remove panding from travis

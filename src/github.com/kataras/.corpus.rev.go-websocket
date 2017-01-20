@@ -1,0 +1,5 @@
+commit c23e0b800ee290a488a057f74375cbcb9d2fe8e4
+Author: Gerasimos (Makis) Maropoulos <kataras2006@hotmail.com>
+Date:   Tue Jan 10 20:47:47 2017 +0200
+
+    Fix appending any previous message

@@ -1,0 +1,5 @@
+commit 1a3e5c619a13b307df3b1b4da7cb7e57d2e156dd
+Author: Gerasimos Maropoulos <kataras2006@hotmail.com>
+Date:   Fri Oct 21 22:44:08 2016 +0300
+
+    Fix gopkg.in problems during iris installation with go-jose

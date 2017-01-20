@@ -1,0 +1,7 @@
+commit 7b1b7adf999dab73a6eb02669c3d82dbb27a3dd6
+Author: Iwasaki Yudai <yudai@arielworks.com>
+Date:   Sat Jan 7 12:01:10 2017 +0900
+
+    Add coloring to ASCII formatter.
+    
+    The jd command supports `-c` option that outputs colors on the terminal.
