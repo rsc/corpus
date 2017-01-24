@@ -19,3 +19,7 @@ This is version 0.01 of the corpus. Each of the projects has all the code
 needed to resolve imports, but there has been no check that the code
 actually builds.
 
+**If you are only interested in analyzing the set of Go source code
+defined by the corpus, don't use the Git repository. Instead,
+download [https://storage.googleapis.com/go-corpus/go-corpus-0.01.tar.gz](https://storage.googleapis.com/go-corpus/go-corpus-0.01.tar.gz).**
+
