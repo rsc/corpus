@@ -1,7 +1,7 @@
 # Go Corpus v0.01
 
 This Git repository is a first draft of a common corpus of Go code to be used
-for evaluating possible changes to Go, Go libraries, and Go tools.
+for [evaluating possible changes to Go, Go libraries, and Go tools](https://research.swtch.com/go2017#corpus).
 
 The actual code is not in this repo. Instead, after checkout you must
 run `gitrestore` to do all the necessary git checkouts.
